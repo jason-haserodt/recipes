@@ -5,7 +5,7 @@
         By Course
     </summary>
 
-    ## Condiments
+## Condiments
 
-    - [Perserved Lemons](Condiments/preserved_lemons.md)
+- [Perserved Lemons](Condiments/preserved_lemons.md)
 </details>
