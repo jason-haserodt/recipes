@@ -1,5 +1,11 @@
 # Recipes
 
-## Condiments
+<details>
+    <summary>
+        By Course
+    </summary>
 
-- [Perserved Lemons](Condiments/preserved_lemons.md)
+    ## Condiments
+
+    - [Perserved Lemons](Condiments/preserved_lemons.md)
+</details>
