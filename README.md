@@ -13,6 +13,10 @@
 
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
+## Side Dishes
+
+- [Mtsvane Lobios Salata](side_dish/mtsvane_lobios_salata.md)
+
 </details>
 
 <details>
@@ -26,6 +30,7 @@
 
 ## Georgian
 
+- [Mtsvane Lobios Salata](side_dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
 </details>
