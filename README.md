@@ -11,4 +11,26 @@
 
 ## Main Course
 
+- [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
+
+    <summary>
+        By Cuisine
+    </summary>
+
+## American
+
+- [Perserved Lemons](Condiments/preserved_lemons.md)
+
+## Georgian
+
+- [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
+
+    <summary>
+        Main Dish By Primary Ingredient
+    </summary>
+
+## Vegitarian
+
+- [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
+
 </details>
