@@ -13,6 +13,9 @@
 
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
+</details>
+
+<details>
     <summary>
         By Cuisine
     </summary>
@@ -25,6 +28,9 @@
 
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
+</details>
+
+<details>
     <summary>
         Main Dish By Primary Ingredient
     </summary>
