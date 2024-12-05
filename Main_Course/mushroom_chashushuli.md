@@ -30,7 +30,7 @@ _Cuisine:  Georgian_
 1. Pour in **tomatoes** and 400ml (1.5 cups) **water**, add **bay leaves**, stir to combine and bring to a boil before reducing the heat to low and simmering, uncovered, until reduced and thickened, about 30 minutes.
 1. Season with **salt** and **pepper**.
 1. Chop **cilantro leaves** and stir into the soup.
-1. Serve immediately, with mashed potatoes.
+1. Serve immediately with mashed potatoes.
 
 ### From
 
