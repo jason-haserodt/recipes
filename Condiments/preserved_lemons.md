@@ -2,7 +2,7 @@
 
 # Preserved Lemons
 
-_American_
+_Cuisine:  American_
 
 ## Ingredients
 
