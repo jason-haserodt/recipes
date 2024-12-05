@@ -18,7 +18,7 @@
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 
 </details>
-
+<br />
 <details>
     <summary>
         By Cuisine
@@ -34,10 +34,10 @@
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
 </details>
-
+<br />
 <details>
     <summary>
-        Main Dish By Primary Ingredient
+        By Primary Ingredient (Main Course)
     </summary>
 
 ## Vegitarian
