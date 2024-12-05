@@ -15,7 +15,7 @@
 
 ## Side Dishes
 
-- [Mtsvane Lobios Salata](side_dish/mtsvane_lobios_salata.md)
+- [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 
 </details>
 
@@ -30,7 +30,7 @@
 
 ## Georgian
 
-- [Mtsvane Lobios Salata](side_dish/mtsvane_lobios_salata.md)
+- [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
 </details>
