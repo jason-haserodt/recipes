@@ -8,6 +8,7 @@
 ## Condiments
 
 - [Perserved Lemons](Condiments/preserved_lemons.md)
+- [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 
 ## Main Course
 
@@ -30,6 +31,7 @@
 
 ## Georgian
 
+- [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
