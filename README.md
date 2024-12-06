@@ -12,6 +12,7 @@
 
 ## Main Course
 
+- [Borscht](Main_Course/borscht.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
 ## Side Dishes
@@ -32,6 +33,7 @@
 
 ## Georgian
 
+- [Borscht](Main_Course/borscht.md)
 - [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
@@ -46,6 +48,7 @@
 
 ## Vegitarian
 
+- [Borscht](Main_Course/borscht.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
 </details>
