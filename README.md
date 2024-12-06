@@ -17,6 +17,7 @@
 ## Side Dishes
 
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
+- [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
 </details>
 <br /><br />
@@ -34,6 +35,7 @@
 - [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
+- [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
 </details>
 <br /><br />
