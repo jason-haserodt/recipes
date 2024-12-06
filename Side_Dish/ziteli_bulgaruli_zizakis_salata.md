@@ -10,7 +10,7 @@ _Cuisine:  Georgian_
 - 1 tsp sugar
 - 1/2 tsp salt
 - 500 g red bell peppers, thinly sliced
-- 2 tsp [mtsvane ajika](RECIPES/Condiments/mtsvane_ajika.md)
+- 2 tsp mtsvane ajika _(see separate recipe)_
 - 35 g cilantro, leaves chopped
 
 ## Instructions
