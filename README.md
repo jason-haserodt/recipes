@@ -13,6 +13,7 @@
 ## Main Course
 
 - [Borscht](Main_Course/borscht.md)
+- [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
@@ -35,6 +36,7 @@
 ## Georgian
 
 - [Borscht](Main_Course/borscht.md)
+- [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
@@ -47,6 +49,10 @@
     <summary>
         By Primary Ingredient (Main Course)
     </summary>
+
+## Chicken
+
+- [Katami Sokoti](Main_Course/katami_sokoti.md)
 
 ## Lamb
 
