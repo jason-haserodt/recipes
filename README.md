@@ -13,6 +13,7 @@
 ## Main Course
 
 - [Borscht](Main_Course/borscht.md)
+- [Kebabi](Main_Course/kebabi.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
 ## Side Dishes
@@ -34,6 +35,7 @@
 ## Georgian
 
 - [Borscht](Main_Course/borscht.md)
+- [Kebabi](Main_Course/kebabi.md)
 - [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
@@ -45,6 +47,10 @@
     <summary>
         By Primary Ingredient (Main Course)
     </summary>
+
+## Lamb
+
+- [Kebabi](Main_Course/kebabi.md)
 
 ## Vegitarian
 
