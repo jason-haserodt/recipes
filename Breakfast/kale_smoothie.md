@@ -1,6 +1,6 @@
 # Kale Smoothie
 
-_Cuisine:  American_
+_Cuisine:  American_<br />
 _Course:  Breakfast_
 
 ## Ingredients
