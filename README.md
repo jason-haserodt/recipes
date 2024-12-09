@@ -21,6 +21,7 @@
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
+- [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 
 ## Side Dishes
 
@@ -48,6 +49,7 @@
 - [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
+- [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
 </details>
@@ -60,6 +62,10 @@
 ## Chicken
 
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
+
+## Fish
+
+- [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 
 ## Lamb
 
