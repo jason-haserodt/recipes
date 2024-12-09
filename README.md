@@ -5,6 +5,11 @@
         By Course
     </summary>
 
+## Breakfast
+
+- [Kale Smoothie](Breakfast/kale_smoothie.md)
+- [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
+
 ## Condiments
 
 - [Perserved Lemons](Condiments/preserved_lemons.md)
@@ -31,7 +36,9 @@
 
 ## American
 
+- [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
+- [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
 ## Georgian
 

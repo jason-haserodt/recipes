@@ -3,6 +3,7 @@
 # Preserved Lemons
 
 _Cuisine:  American_
+_Course:  Condiments_
 
 ## Ingredients
 

@@ -1,6 +1,7 @@
 # Borscht
 
 _Cuisine:  Georgian_
+_Course:  Main Course_
 
 ## Ingredients
 

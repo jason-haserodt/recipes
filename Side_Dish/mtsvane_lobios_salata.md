@@ -3,6 +3,7 @@
 # Mtsvane Lobios Salata
 
 _Cuisine:  Georgian_
+_Course:  Side Dish_
 
 ## Ingredients
 
