@@ -1,6 +1,6 @@
 # Katami Sokoti
 
-_Cuisine:  Georgian_
+_Cuisine:  Georgian_<br />
 _Course:  Main Course_
 
 ## Ingredients

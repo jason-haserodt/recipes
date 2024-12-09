@@ -1,6 +1,6 @@
 # Mtsvane Ajika
 
-_Cuisine:  Georgian_
+_Cuisine:  Georgian_<br />
 _Course:  Condiments_
 
 ## Ingredients
