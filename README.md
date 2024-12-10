@@ -20,6 +20,7 @@
 - [Borscht](Main_Course/borscht.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
+- [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 
@@ -38,6 +39,7 @@
 ## American
 
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
+- [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
@@ -74,6 +76,7 @@
 ## Vegitarian
 
 - [Borscht](Main_Course/borscht.md)
+- [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 
 </details>
