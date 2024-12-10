@@ -21,6 +21,6 @@ _Course:  Condiments_
 1. Place whatever you will not use within 1 week in an ice cube tray in the freezer and freeze.
 1. Remove ajika cubes from the tray and store in the freezer in a ziplock bag.
 
-### From
+## From
 
 [Supra: A feast of Georgian cooking](https://www.amazon.com/Supra-Georgian-Cooking-Tiko-Tuskadze/dp/1911216163)

@@ -39,6 +39,6 @@ _Course:  Side Dish_
 1. Add the **garlic paste** and **fresh herbs** to the pan and cook for 2 minutes.
 1. Transfer to a serving platter and serve warm.
 
-### From
+## From
 
 [Supra: A feast of Georgian cooking](https://www.amazon.com/Supra-Georgian-Cooking-Tiko-Tuskadze/dp/1911216163)

@@ -36,6 +36,6 @@ _Course:  Main Course_
 1. Place the mixture on a serving platter and garnish with **pomegranate seeds**.
 1. Serve hot with **mashed potatoes** and more **pomegranate seeds** on the side.
 
-### From
+## From
 
 [Supra: A feast of Georgian cooking](https://www.amazon.com/Supra-Georgian-Cooking-Tiko-Tuskadze/dp/1911216163)

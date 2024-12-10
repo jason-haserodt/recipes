@@ -27,6 +27,6 @@ _Course:  Side Dish_
 1. Gently combine so that the mixture coats the **peppers**.
 1. Garnish with cilantro and serve.
 
-### From
+## From
 
 [Supra: A feast of Georgian cooking](https://www.amazon.com/Supra-Georgian-Cooking-Tiko-Tuskadze/dp/1911216163)

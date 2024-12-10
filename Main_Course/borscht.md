@@ -36,6 +36,6 @@ _Course:  Main Course_
 1. Season with **salt** and **pepper**, to taste.
 1. Divide the soup among serving bowls and garnish with the remaining **dill** and a spoonful of **creme fraiche** or **sour cream**.  Serve hot.
 
-### From
+## From
 
 [Supra: A feast of Georgian cooking](https://www.amazon.com/Supra-Georgian-Cooking-Tiko-Tuskadze/dp/1911216163)

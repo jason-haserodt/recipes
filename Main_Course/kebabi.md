@@ -40,6 +40,6 @@ _Course:  Main Course_
 1. Transfer the kebabi to the preheated oven for 18-20 minutes to finish cooking.
 1. Serve the kebabi on **lavash** with **red onion**, **ajika**, **pomegranate seeds**, and **parsley**.
 
-### From
+## From
 
 [Supra: A feast of Georgian cooking](https://www.amazon.com/Supra-Georgian-Cooking-Tiko-Tuskadze/dp/1911216163)

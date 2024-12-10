@@ -29,6 +29,6 @@ _Course:  Main Course_
 1. Transfer **salmon** and **onions** to a serving platter and drizzle with **pomegranate molasses**.
 1. Serve with **lavash**.
 
-### From
+## From
 
 [Supra: A feast of Georgian cooking](https://www.amazon.com/Supra-Georgian-Cooking-Tiko-Tuskadze/dp/1911216163)

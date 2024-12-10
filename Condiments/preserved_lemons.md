@@ -20,6 +20,6 @@ _Course:  Condiments_
 1. Refrigerate for 4 days.  Flip jar and refrigerate for 4 more days.  
 1. Rinse lemons wedges before using - or not!  Use within 3 months.
 
-### From
+## From
 
 [EveryDayCook](https://altonbrown.com/books/everydaycook/)

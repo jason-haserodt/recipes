@@ -21,6 +21,6 @@ _Course:  Breakfast_
 1. Place all ingredients in a blender.
 1. Puree until smooth.
 
-### From
+## From
 
 My own recipe
