@@ -1,6 +1,6 @@
 # Mac and Cheese
 
-_Cuisine:  American<br />
+_Cuisine:  American_<br />
 _Course:  Main Course_
 
 ## Ingredients
