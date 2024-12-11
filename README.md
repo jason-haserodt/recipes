@@ -21,6 +21,7 @@
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
+- [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 
@@ -54,12 +55,20 @@
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
+## North African
+
+- [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
+
 </details>
 <br /><br />
 <details>
     <summary>
         By Primary Ingredient (Main Course)
     </summary>
+
+## Beef
+
+- [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 
 ## Chicken
 
