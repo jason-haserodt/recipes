@@ -7,6 +7,7 @@
 
 ## Breakfast
 
+- [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
@@ -39,6 +40,7 @@
 
 ## American
 
+- [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
