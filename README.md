@@ -25,6 +25,7 @@
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
+- [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 
 ## Side Dishes
 
@@ -43,6 +44,7 @@
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
+- [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
@@ -89,5 +91,6 @@
 - [Borscht](Main_Course/borscht.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
+- [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 
 </details>
