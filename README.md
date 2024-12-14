@@ -27,6 +27,7 @@
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
+- [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 
 ## Side Dishes
 
@@ -65,6 +66,10 @@
 
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 
+## Spanish
+
+- [Tortilla Espanola](Main_Course/tortilla_espanola.md)
+
 </details>
 <br /><br />
 <details>
@@ -95,5 +100,6 @@
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
+- [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 
 </details>
