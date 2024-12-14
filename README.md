@@ -13,8 +13,9 @@
 
 ## Condiments
 
-- [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
+- [Perserved Lemons](Condiments/preserved_lemons.md)
+- [Pickled Peppers](Condiments/pickled_peppers.md)
 
 ## Main Course
 
@@ -46,6 +47,7 @@
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
+- [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
 ## Georgian
@@ -92,5 +94,6 @@
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
+- [Pickled Peppers](Condiments/pickled_peppers.md)
 
 </details>
