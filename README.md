@@ -20,6 +20,7 @@
 ## Dessert
 
 - [Carrot Cake](Dessert/carrot_cake.md)
+- [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## Main Course
@@ -51,6 +52,7 @@
 ## American
 
 - [Carrot Cake](Dessert/carrot_cake.md)
+- [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
