@@ -19,6 +19,7 @@
 
 ## Dessert
 
+- [Carrot Cake](Dessert/carrot_cake.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## Main Course
@@ -48,6 +49,7 @@
 
 ## American
 
+- [Carrot Cake](Dessert/carrot_cake.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
