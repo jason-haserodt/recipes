@@ -31,6 +31,7 @@
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
+- [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 
 ## Side Dishes
@@ -53,6 +54,7 @@
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
+- [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
 ## Georgian
@@ -100,6 +102,7 @@
 ## Lamb
 
 - [Kebabi](Main_Course/kebabi.md)
+- [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 
 ## Vegitarian
 
