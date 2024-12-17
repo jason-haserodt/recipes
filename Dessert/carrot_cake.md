@@ -25,14 +25,15 @@ Frosting
 ## Instructions
 
 1. Pre-heat oven to 350 F.
-1. Mix ingredients in the order given.
+1. Drain the **pineapple**.
+1. Mix **all of the ingredients** in the order given.
 1. Pour into greased pan(s).  Either a 9"x13" pan, 3 - 8" or 9" round pans, or 2 - 10" round pans.
 1. Bake at 350 F for 20 minutes.
 1. Reduce heat to 300 F and bake for another 25 minutes.
 1. Check for doneness with a toothpick.
 1. Let cool.
-1. Prepare the frosting by beating the cream cheese and butter together until fluffy.
-1. Add powdered sugar and beat until stiff enough to spread easily.
+1. Prepare the frosting by beating the **cream cheese** and **butter** together until fluffy.
+1. Add **powdered sugar** and beat until stiff enough to spread easily.
 1. Spread frosting over the cake.
 
 ## From
