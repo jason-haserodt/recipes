@@ -25,6 +25,7 @@
 ## Main Course
 
 - [Borscht](Main_Course/borscht.md)
+- [Frigga mit Polenta](Main_Course/frigga.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
@@ -72,6 +73,7 @@
 
 ## German
 
+- [Frigga mit Polenta](Main_Course/frigga.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## North African
@@ -105,6 +107,10 @@
 
 - [Kebabi](Main_Course/kebabi.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
+
+## Pork
+
+- [Frigga mit Polenta](Main_Course/frigga.md)
 
 ## Vegitarian
 
