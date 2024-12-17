@@ -16,6 +16,7 @@
 - [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
+- [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
 
 ## Dessert
 
@@ -60,6 +61,7 @@
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
+- [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
 ## Georgian
