@@ -17,6 +17,10 @@
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 
+## Dessert
+
+- [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
+
 ## Main Course
 
 - [Borscht](Main_Course/borscht.md)
@@ -61,6 +65,10 @@
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
+
+## German
+
+- [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## North African
 
