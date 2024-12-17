@@ -22,6 +22,7 @@
 
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
+- [Rice Pudding](Dessert/rice_pudding.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## Main Course
@@ -62,6 +63,7 @@
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
+- [Rice Pudding](Dessert/rice_pudding.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
 ## Georgian
