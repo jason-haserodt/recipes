@@ -7,6 +7,7 @@
 
 ## Breakfast
 
+- [Cranberry Bread](Breakfast/cranberry_bread.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
@@ -55,6 +56,7 @@
 
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
+- [Cranberry Bread](Breakfast/cranberry_bread.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
