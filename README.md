@@ -42,6 +42,7 @@
 
 ## Side Dishes
 
+- [Braised Greens](Side_Dish/braised_greens.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
@@ -54,6 +55,7 @@
 
 ## American
 
+- [Braised Greens](Side_Dish/braised_greens.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
