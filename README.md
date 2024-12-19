@@ -30,6 +30,7 @@
 ## Main Course
 
 - [Borscht](Main_Course/borscht.md)
+- [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
@@ -84,8 +85,9 @@
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
-## German
+## German and Central European
 
+- [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
@@ -110,6 +112,7 @@
 
 ## Beef
 
+- [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 
 ## Chicken
