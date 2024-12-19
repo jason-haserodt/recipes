@@ -46,6 +46,7 @@
 ## Side Dishes
 
 - [Braised Greens](Side_Dish/braised_greens.md)
+- [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
@@ -89,6 +90,7 @@
 
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
+- [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## Indian and South Asian
