@@ -39,6 +39,7 @@
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
+- [Tsampa](Main_Course/tsampa.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 
 ## Side Dishes
@@ -88,6 +89,10 @@
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
+## Indian and South Asian
+
+- [Tsampa](Main_Course/tsampa.md)
+
 ## North African
 
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
@@ -131,6 +136,7 @@
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
+- [Tsampa](Main_Course/tsampa.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 
 </details>
