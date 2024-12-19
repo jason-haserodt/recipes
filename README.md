@@ -23,6 +23,7 @@
 
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
+- [Mushroom Cookies](Dessert/mushroom_cookies.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
@@ -62,6 +63,7 @@
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
+- [Mushroom Cookies](Dessert/mushroom_cookies.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
