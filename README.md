@@ -40,6 +40,7 @@
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
+- [Topinambur](Main_Course/topinambur.md)
 - [Tsampa](Main_Course/tsampa.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 
@@ -96,6 +97,7 @@
 
 ## Indian and South Asian
 
+- [Topinambur](Main_Course/topinambur.md)
 - [Tsampa](Main_Course/tsampa.md)
 
 ## Italian
@@ -147,6 +149,7 @@
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Tsampa](Main_Course/tsampa.md)
+- [Topinambur](Main_Course/topinambur.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 
 </details>
