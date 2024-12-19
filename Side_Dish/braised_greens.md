@@ -1,7 +1,7 @@
 # Braised Greens
 
 _Cuisine:  American_<br />
-_Course:  Condiments_
+_Course:  Side Dish_
 
 ## Ingredients
 
