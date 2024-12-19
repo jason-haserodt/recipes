@@ -45,6 +45,7 @@
 
 ## Side Dishes
 
+- [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
@@ -96,6 +97,10 @@
 ## Indian and South Asian
 
 - [Tsampa](Main_Course/tsampa.md)
+
+## Italian
+
+- [Baked Eggplant](Side_Dish/baked_eggplant.md)
 
 ## North African
 
