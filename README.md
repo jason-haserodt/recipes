@@ -39,6 +39,7 @@
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
+- [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Topinambur](Main_Course/topinambur.md)
@@ -82,6 +83,7 @@
 ## Asian
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
+- [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 
 ## Georgian
 
@@ -143,6 +145,7 @@
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
+- [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 
 ## Lamb
