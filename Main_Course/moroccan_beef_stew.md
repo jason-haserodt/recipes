@@ -16,7 +16,7 @@ _Course:  Main Course_
 - 8-10 oz mushrooms, chopped
 - 1 onion, chopped
 - 2 cloves garlic
-- 2 tbsp red wine
+- 2 tbsp red wine vinegar
 - 5 tbsp tomato paste (half of a 6 oz can)
 - zest from 1 orange
 - 1 tbsp brown sugar
@@ -31,7 +31,7 @@ _Course:  Main Course_
 1. Add **beef** and saute until browned on all sides.
 1. Remove **beef** and add remaining **butter** and **oil** to dutch oven.
 1. Add **carrots**, **onions**, **mushrooms** and **garlic** and saute until softened.
-1. Deglaze with **red wine**.
+1. Deglaze with **red wine vinegar**.
 1. Add **tomato paste**, **orange zest**, **brown sugar**, and **water**.
 1. Add **beef** and brint to a boil.
 1. Cover dutch oven and place in pre-heated oven.
