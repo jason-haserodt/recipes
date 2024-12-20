@@ -111,6 +111,10 @@
 
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 
+## Mediterranean
+
+- [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
+
 ## North African
 
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
@@ -139,6 +143,7 @@
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
+- [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 
 ## Lamb
 
@@ -156,6 +161,7 @@
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
+- [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 - [Tsampa](Main_Course/tsampa.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
