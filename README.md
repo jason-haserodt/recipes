@@ -42,6 +42,7 @@
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
+- [Peach Pork Chops](Main_Course/peach_pork_chops.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tsampa](Main_Course/tsampa.md)
@@ -74,6 +75,7 @@
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Cookies](Dessert/mushroom_cookies.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
+- [Peach Pork Chops](Main_Course/peach_pork_chops.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
@@ -159,6 +161,7 @@
 ## Pork
 
 - [Frigga mit Polenta](Main_Course/frigga.md)
+- [Peach Pork Chops](Main_Course/peach_pork_chops.md)
 
 ## Vegitarian
 
