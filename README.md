@@ -36,6 +36,7 @@
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
+- [Meatballs](Main_Course/meatballs.md)
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
@@ -112,6 +113,7 @@
 ## Italian
 
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
+- [Meatballs](Main_Course/meatballs.md)
 
 ## Mediterranean
 
@@ -135,6 +137,7 @@
 ## Beef
 
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
+- [Meatballs](Main_Course/meatballs.md)
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 
 ## Chicken
