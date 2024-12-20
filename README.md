@@ -29,6 +29,7 @@
 
 ## Main Course
 
+- [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Borscht](Main_Course/borscht.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
@@ -77,6 +78,10 @@
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
+
+## Asian
+
+- [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 
 ## Georgian
 
@@ -132,6 +137,7 @@
 
 ## Fish
 
+- [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 
 ## Lamb
