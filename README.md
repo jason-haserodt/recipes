@@ -57,6 +57,7 @@
 
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
+- [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Moehrensalat](Side_Dish/mohrensalat.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
@@ -125,6 +126,7 @@
 ## Italian
 
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
+- [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
 - [Meatballs](Main_Course/meatballs.md)
 
 ## Mediterranean
