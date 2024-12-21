@@ -36,6 +36,7 @@
 - [Borscht](Main_Course/borscht.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
+- [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
@@ -127,6 +128,7 @@
 ## Italian
 
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
+- [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
 - [Meatballs](Main_Course/meatballs.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
@@ -164,6 +166,7 @@
 ## Fish
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
+- [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Poaches Salmon](Main_Course/poached_salmon.md)
