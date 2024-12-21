@@ -49,6 +49,7 @@
 - [Pepper Crusted Filet Mignon](Main_Course/pepper_crusted_filet_mignon.md)
 - [Poaches Salmon](Main_Course/poached_salmon.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
+- [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tsampa](Main_Course/tsampa.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
@@ -128,6 +129,7 @@
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
 - [Meatballs](Main_Course/meatballs.md)
+- [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 
 ## Mediterranean
 
@@ -185,6 +187,7 @@
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
+- [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 - [Tsampa](Main_Course/tsampa.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
