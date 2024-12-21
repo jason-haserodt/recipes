@@ -22,6 +22,7 @@
 ## Dessert
 
 - [Carrot Cake](Dessert/carrot_cake.md)
+- [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Mushroom Cookies](Dessert/mushroom_cookies.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
@@ -70,6 +71,7 @@
 
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
+- [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
