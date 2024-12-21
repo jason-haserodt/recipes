@@ -10,6 +10,7 @@
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
+- [Pour Over Coffee](Breakfast/pour_over_coffee.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
 ## Condiments
@@ -84,6 +85,7 @@
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Poaches Salmon](Main_Course/poached_salmon.md)
+- [Pour Over Coffee](Breakfast/pour_over_coffee.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
