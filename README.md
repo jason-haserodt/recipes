@@ -52,6 +52,7 @@
 - [Poaches Salmon](Main_Course/poached_salmon.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
+- [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
@@ -97,6 +98,7 @@
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
+- [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
 ## Asian
@@ -177,6 +179,7 @@
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Poaches Salmon](Main_Course/poached_salmon.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
+- [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 
 ## Lamb
