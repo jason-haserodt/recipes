@@ -51,6 +51,7 @@
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
+- [Pan Bagnat](Main_Course/pan_bagnat.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Peach Pork Chops](Main_Course/peach_pork_chops.md)
 - [Pepper Crusted Filet Mignon](Main_Course/pepper_crusted_filet_mignon.md)
@@ -159,6 +160,7 @@
 
 ## Mediterranean
 
+- [Pan Bagnat](Main_Course/pan_bagnat.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 
 ## North African
@@ -221,6 +223,7 @@
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
+- [Pan Bagnat](Main_Course/pan_bagnat.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
