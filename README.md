@@ -33,6 +33,7 @@
 ## Main Course
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
+- [Baked Pasta with Aubergines](Main_Course/baked_pasta_with_aubergines.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
@@ -143,6 +144,7 @@
 ## Italian
 
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
+- [Baked Pasta with Aubergines](Main_Course/baked_pasta_with_aubergines.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
@@ -206,6 +208,7 @@
 
 ## Vegitarian
 
+- [Baked Pasta with Aubergines](Main_Course/baked_pasta_with_aubergines.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
