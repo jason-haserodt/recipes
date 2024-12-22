@@ -33,6 +33,7 @@
 ## Main Course
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
+- [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
@@ -82,6 +83,7 @@
 
 ## American
 
+- [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
@@ -204,6 +206,7 @@
 
 ## Vegitarian
 
+- [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
