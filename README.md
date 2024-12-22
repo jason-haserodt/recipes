@@ -12,6 +12,7 @@
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Poop Smoothie](Breakfast/poop_smoothie.md)
 - [Pour Over Coffee](Breakfast/pour_over_coffee.md)
+- [Salsa Rustica with Egg and Pancetta](Breakfast/salsa_rustica_with_egg_and_pancetta.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
 ## Condiments
@@ -157,6 +158,7 @@
 - [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
 - [Meatballs](Main_Course/meatballs.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
+- [Salsa Rustica with Egg and Pancetta](Breakfast/salsa_rustica_with_egg_and_pancetta.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
