@@ -69,6 +69,7 @@
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Moehrensalat](Side_Dish/mohrensalat.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
+- [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
 </details>
@@ -101,6 +102,7 @@
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
+- [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
