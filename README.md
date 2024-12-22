@@ -35,6 +35,7 @@
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Borscht](Main_Course/borscht.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
+- [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
@@ -129,6 +130,7 @@
 ## Italian
 
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
+- [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
 - [Meatballs](Main_Course/meatballs.md)
@@ -187,15 +189,16 @@
 ## Vegitarian
 
 - [Borscht](Main_Course/borscht.md)
+- [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
-- [Tsampa](Main_Course/tsampa.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
+- [Tsampa](Main_Course/tsampa.md)
 
 </details>
