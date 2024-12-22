@@ -1,7 +1,7 @@
 # Pan Bagnat
 
 _Cuisine:  French_<br />
-_Course:  Main Course_
+_Course:  Lunch_
 
 ## Ingredients
 
