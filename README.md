@@ -212,7 +212,7 @@
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 
-## Vegitarian
+## Vegetarian
 
 - [Baked Pasta with Aubergines](Main_Course/baked_pasta_with_aubergines.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
