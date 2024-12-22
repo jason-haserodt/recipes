@@ -56,6 +56,7 @@
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 - [Tsampa](Main_Course/tsampa.md)
+- [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 
 ## Side Dishes
 
@@ -102,6 +103,7 @@
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
+- [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 
 ## Georgian
 
@@ -175,6 +177,7 @@
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Poaches Salmon](Main_Course/poached_salmon.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
+- [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 
 ## Lamb
 
