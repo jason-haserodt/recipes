@@ -35,6 +35,7 @@
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Borscht](Main_Course/borscht.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
+- [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
@@ -83,6 +84,7 @@
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
+- [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
@@ -165,6 +167,7 @@
 ## Beef
 
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
+- [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Meatballs](Main_Course/meatballs.md)
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 - [Pepper Crusted Filet Mignon](Main_Course/pepper_crusted_filet_mignon.md)
