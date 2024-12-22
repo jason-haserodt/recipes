@@ -36,6 +36,7 @@
 - [Borscht](Main_Course/borscht.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
+- [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
@@ -135,6 +136,7 @@
 
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
+- [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
 - [Meatballs](Main_Course/meatballs.md)
@@ -189,6 +191,7 @@
 
 ## Pork
 
+- [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Peach Pork Chops](Main_Course/peach_pork_chops.md)
 
