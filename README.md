@@ -36,6 +36,7 @@
 - [Borscht](Main_Course/borscht.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
+- [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
@@ -126,6 +127,7 @@
 ## German and Central European
 
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
+- [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Moehrensalat](Side_Dish/mohrensalat.md)
@@ -203,6 +205,7 @@
 ## Vegitarian
 
 - [Borscht](Main_Course/borscht.md)
+- [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
