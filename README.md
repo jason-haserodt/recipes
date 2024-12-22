@@ -30,6 +30,10 @@
 - [Rice Pudding](Dessert/rice_pudding.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
+## Lunch
+
+- [Pan Bagnat](Lunch/pan_bagnat.md)
+
 ## Main Course
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
@@ -51,7 +55,6 @@
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
-- [Pan Bagnat](Main_Course/pan_bagnat.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Peach Pork Chops](Main_Course/peach_pork_chops.md)
 - [Pepper Crusted Filet Mignon](Main_Course/pepper_crusted_filet_mignon.md)
@@ -175,7 +178,7 @@
 <br /><br />
 <details>
     <summary>
-        By Primary Ingredient (Main Course)
+        By Primary Ingredient (Main Course and Lunch)
     </summary>
 
 ## Beef
