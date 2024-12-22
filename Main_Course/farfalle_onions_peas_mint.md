@@ -1,6 +1,6 @@
 # Farfalle with Caramelized Onions, Peas and Mint
 
-_Cuisine:  Italnian_<br />
+_Cuisine:  Italian_<br />
 _Course:  Main Course_
 
 ## Ingredients

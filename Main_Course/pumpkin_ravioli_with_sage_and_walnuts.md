@@ -1,6 +1,6 @@
 # Pumpkin Ravioli with Crispy Sage and Walnut Butter
 
-_Cuisine:  Italnian_<br />
+_Cuisine:  Italian_<br />
 _Course:  Main Course_
 
 ## Ingredients

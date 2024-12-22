@@ -1,6 +1,6 @@
 # Tortellini with Yogurt, Mint and Smoked Paprika Oil
 
-_Cuisine:  Italnian_<br />
+_Cuisine:  Italian_<br />
 _Course:  Main Course_
 
 ## Ingredients

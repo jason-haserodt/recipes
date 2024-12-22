@@ -1,6 +1,6 @@
 # Golden Fettuccine with Sardines, Fennel and Saffron
 
-_Cuisine:  Italnian_<br />
+_Cuisine:  Italian_<br />
 _Course:  Main Course_
 
 ## Ingredients

@@ -1,6 +1,6 @@
 # Fennel Sausages with Wrinkled Grapes and Grape Extract
 
-_Cuisine:  Italnian_<br />
+_Cuisine:  Italian_<br />
 _Course:  Main Course_
 
 ## Ingredients
