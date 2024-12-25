@@ -1,6 +1,6 @@
-![Pepper Crusted FIlet Mignon](pepper_crusted_filet_mignon.jpg)
+![Pepper Crusted FIllet Mignon](pepper_crusted_fillet_mignon.jpg)
 
-# Pepper Crusted Filet Mignon
+# Pepper Crusted Fillet Mignon
 
 _Cuisine:  American_<br />
 _Course:  Main Course_
