@@ -42,6 +42,7 @@
 - [Baked Pasta with Aubergines](Main_Course/baked_pasta_with_aubergines.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
+- [Carnitas](Main_Course/carnitas.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
@@ -172,6 +173,10 @@
 - [Pan Bagnat](Main_Course/pan_bagnat.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 
+## Mexican
+
+- [Carnitas](Main_Course/carnitas.md)
+
 ## North African
 
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
@@ -218,6 +223,7 @@
 
 ## Pork
 
+- [Carnitas](Main_Course/carnitas.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
