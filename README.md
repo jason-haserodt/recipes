@@ -76,6 +76,7 @@
 
 ## Side Dishes
 
+- [Badrijani Nigvzit](Side_Dish/badrijani_nigvzit.md)
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
@@ -129,6 +130,7 @@
 ## Georgian
 
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
+- [Badrijani Nigvzit](Side_Dish/badrijani_nigvzit.md)
 - [Borscht](Main_Course/borscht.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
