@@ -24,6 +24,7 @@
 
 ## Dessert
 
+- [Candy Cane Cookies](Dessert/candy_cane_cookies.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
@@ -98,6 +99,7 @@
 
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
+- [Candy Cane Cookies](Dessert/candy_cane_cookies.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
