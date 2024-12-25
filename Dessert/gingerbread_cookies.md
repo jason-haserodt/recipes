@@ -1,6 +1,6 @@
 # Gingerbread Cookies
 
-_Cuisine:  American_<br />
+_Cuisine:  German_<br />
 _Course:  Dessert_
 
 ## Ingredients
