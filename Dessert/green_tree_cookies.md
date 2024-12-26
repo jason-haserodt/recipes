@@ -1,6 +1,6 @@
 # Green Tree Cookies
 
-_Cuisine:  American_<br />
+_Cuisine:  Christmas_<br />
 _Course:  Dessert_
 
 ## Ingredients
