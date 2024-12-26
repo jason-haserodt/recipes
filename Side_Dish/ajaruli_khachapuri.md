@@ -26,12 +26,12 @@ _Course:  Side Dish_
 1. Place flour in stand mixer, pour in the **milk mixture**, and knead into a dough.
 1. Grease and cover the bowl and let the **dough** rise until doubled, for 1.5-2 hours.
 1. While dough is rising, mix the three **cheeses** together in a medium bowl.  Cover and refrigerate.
-1. Pre-heat oven to 400 F.
+1. Pre-heat oven to 425 F.
 1. Divide **dough** into two balls and let rise for 10 minutes.
 1. Roll out 1 ball into a thin oval.  Roll the long edges on each side into a crust.  Twist ends for form a boat shape.
 1. Transfer to a parchment lined baking sheet and repeat with the other ball of dough.
 1. Spoon half of the **cheese mixture** into each **bread boat**.
-1. Transfer the baking sheet to the oven and bake at 400 F for 15 minutes.
+1. Transfer the baking sheet to the oven and bake at 425 F for 15 minutes.
 1. Quickly remove from the oven, make a well in the center of each bread with the back of a spoon, and crack an **egg** into each.
 1. Slide chunks of **butter** into the cheese.
 1. Return the baking sheet to the oven and bake until cheese is beginning to brown and egg is beginning to set, 5 minutes.
