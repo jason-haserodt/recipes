@@ -81,6 +81,7 @@
 - [Badrijani Nigvzit](Side_Dish/badrijani_nigvzit.md)
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
+- [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
 - [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Moehrensalat](Side_Dish/mohrensalat.md)
@@ -99,6 +100,7 @@
 
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
+- [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
 - [Candy Cane Cookies](Dessert/candy_cane_cookies.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
