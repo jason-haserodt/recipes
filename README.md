@@ -32,6 +32,7 @@
 - [Green Tree Cookies](Dessert/green_tree_cookies.md)
 - [Mushroom Cookies](Dessert/mushroom_cookies.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
+- [Rum Balls](Dessert/rum_balls.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## Lunch
@@ -102,13 +103,11 @@
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
-- [Candy Cane Cookies](Dessert/candy_cane_cookies.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
-- [Green Tree Cookies](Dessert/green_tree_cookies.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
@@ -134,6 +133,13 @@
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 
+## Christmas
+
+- [Candy Cane Cookies](Dessert/candy_cane_cookies.md)
+- [Gingerbread Cookies](Dessert/gingerbread_cookies.md)
+- [Green Tree Cookies](Dessert/green_tree_cookies.md)
+- [Rum Balls](Dessert/rum_balls.md)
+
 ## Georgian
 
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
@@ -152,7 +158,6 @@
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
-- [Gingerbread Cookies](Dessert/gingerbread_cookies.md)
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Moehrensalat](Side_Dish/mohrensalat.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
