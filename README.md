@@ -10,6 +10,7 @@
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
+- [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
 - [Poop Smoothie](Breakfast/poop_smoothie.md)
 - [Pour Over Coffee](Breakfast/pour_over_coffee.md)
 - [Salsa Rustica with Egg and Pancetta](Breakfast/salsa_rustica_with_egg_and_pancetta.md)
@@ -202,6 +203,7 @@
 ## Mexican and Hispanic
 
 - [Carnitas](Main_Course/carnitas.md)
+- [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
 
 ## North African
