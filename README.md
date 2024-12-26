@@ -80,6 +80,7 @@
 
 ## Side Dishes
 
+- [Ajaruli Khachapuri](Side_Dish/ajaruli_khachapuri.md)
 - [Badrijani Nigvzit](Side_Dish/badrijani_nigvzit.md)
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
@@ -142,6 +143,7 @@
 
 ## Georgian
 
+- [Ajaruli Khachapuri](Side_Dish/ajaruli_khachapuri.md)
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
 - [Badrijani Nigvzit](Side_Dish/badrijani_nigvzit.md)
 - [Borscht](Main_Course/borscht.md)
