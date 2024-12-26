@@ -64,6 +64,7 @@
 - [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
+- [Paella](Main_Course/paella.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
 - [Peach Pork Chops](Main_Course/peach_pork_chops.md)
 - [Pepper Crusted Fillet Mignon](Main_Course/pepper_crusted_fillet_mignon.md)
@@ -205,6 +206,7 @@
 
 ## Spanish
 
+- [Paella](Main_Course/paella.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 
 </details>
@@ -234,6 +236,7 @@
 - [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
+- [Paella](Main_Course/paella.md)
 - [Poaches Salmon](Main_Course/poached_salmon.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
