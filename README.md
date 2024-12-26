@@ -33,6 +33,7 @@
 - [Mushroom Cookies](Dessert/mushroom_cookies.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
 - [Rum Balls](Dessert/rum_balls.md)
+- [Stollen](Dessert/stollen.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## Lunch
@@ -142,6 +143,7 @@
 - [Gingerbread Cookies](Dessert/gingerbread_cookies.md)
 - [Green Tree Cookies](Dessert/green_tree_cookies.md)
 - [Rum Balls](Dessert/rum_balls.md)
+- [Stollen](Dessert/stollen.md)
 
 ## French
 
