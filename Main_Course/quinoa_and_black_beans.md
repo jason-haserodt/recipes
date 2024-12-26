@@ -1,4 +1,4 @@
-# Quinoa and Black Beans
+# Quinoa and Black Beans and Corn
 
 _Cuisine:  Bolivian_<br />
 _Course:  Main Course_
