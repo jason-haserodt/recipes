@@ -61,6 +61,7 @@
 - [Meatballs](Main_Course/meatballs.md)
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
+- [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
@@ -141,6 +142,11 @@
 - [Green Tree Cookies](Dessert/green_tree_cookies.md)
 - [Rum Balls](Dessert/rum_balls.md)
 
+## French
+
+- [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
+- [Pan Bagnat](Main_Course/pan_bagnat.md)
+
 ## Georgian
 
 - [Ajaruli Khachapuri](Side_Dish/ajaruli_khachapuri.md)
@@ -187,7 +193,6 @@
 
 ## Mediterranean
 
-- [Pan Bagnat](Main_Course/pan_bagnat.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 
 ## Mexican
@@ -222,10 +227,11 @@
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 
-## Fish
+## Fish and Seafood
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
+- [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Poaches Salmon](Main_Course/poached_salmon.md)
