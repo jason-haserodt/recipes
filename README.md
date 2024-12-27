@@ -96,6 +96,7 @@
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
 - [Brussels Sprout Bread](Side_Dish/brussels_sprout_bread.md)
+- [Celeriac Slaw](Side_Dish/celeriac_slaw.md)
 - [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Moehrensalat](Side_Dish/mohrensalat.md)
@@ -152,6 +153,10 @@
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Wasabi Salmon](Main_Course/wasabi_salmon.md)
+
+## Baltic and Eastern European
+
+- [Celeriac Slaw](Side_Dish/celeriac_slaw.md)
 
 ## Christmas
 
