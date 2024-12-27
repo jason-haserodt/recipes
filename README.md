@@ -38,6 +38,7 @@
 - [Mushroom Cookies](Dessert/mushroom_cookies.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
 - [Rum Balls](Dessert/rum_balls.md)
+- [Southern Cobbler](Dessert/southern_cobbler.md)
 - [Stollen](Dessert/stollen.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
@@ -152,6 +153,7 @@
 - [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
 - [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
+- [Southern Cobbler](Dessert/southern_cobbler.md)
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
 - [Three Bean Salad](Side_Dish/three_bean_salad.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
