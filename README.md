@@ -58,6 +58,7 @@
 - [Carnitas](Main_Course/carnitas.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
+- [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
 - [Crispy Duck Breast](Main_Course/crispy_duck_breast.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
@@ -224,6 +225,7 @@
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Baked Pasta with Aubergines](Main_Course/baked_pasta_with_aubergines.md)
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
+- [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
@@ -291,6 +293,7 @@
 ## Fish and Seafood
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
+- [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
