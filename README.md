@@ -25,6 +25,7 @@
 
 ## Dessert
 
+- [Apple Pie](Dessert/apple_pie.md)
 - [Candy Cane Cookies](Dessert/candy_cane_cookies.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Chocolate Angelfood Cake](Dessert/chocolate_angelfood_cake.md)
@@ -111,6 +112,7 @@
 
 ## American
 
+- [Apple Pie](Dessert/apple_pie.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
