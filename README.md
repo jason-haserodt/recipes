@@ -60,6 +60,7 @@
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
+- [Greta Gran's Potatoes](Main_Course/greta_gran_potatoes.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
@@ -160,6 +161,7 @@
 
 - [Celeriac Slaw](Side_Dish/celeriac_slaw.md)
 - [Dry Fruit Truffles](Dessert/dry_fruit_truffles.md)
+- [Greta Gran's Potatoes](Main_Course/greta_gran_potatoes.md)
 
 ## Christmas
 
@@ -297,6 +299,7 @@
 - [Borscht](Main_Course/borscht.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
+- [Greta Gran's Potatoes](Main_Course/greta_gran_potatoes.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Pan Bagnat](Main_Course/pan_bagnat.md)
