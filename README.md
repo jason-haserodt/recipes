@@ -51,11 +51,12 @@
 - [Baked Pasta with Aubergines](Main_Course/baked_pasta_with_aubergines.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
+- [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
-- [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
+- [Crispy Duck Breast](Main_Course/crispy_duck_breast.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
@@ -130,6 +131,7 @@
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
+- [Crispy Duck Breast](Main_Course/crispy_duck_breast.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
@@ -266,6 +268,10 @@
 
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
+
+## Duck
+
+- [Crispy Duck Breast](Main_Course/crispy_duck_breast.md)
 
 ## Fish and Seafood
 
