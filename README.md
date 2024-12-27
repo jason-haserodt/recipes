@@ -8,6 +8,7 @@
 ## Breakfast
 
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
+- [Dutch Baby](Breakfast/dutch_baby.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
@@ -132,6 +133,7 @@
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
 - [Crispy Duck Breast](Main_Course/crispy_duck_breast.md)
+- [Dutch Baby](Breakfast/dutch_baby.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
