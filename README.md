@@ -61,6 +61,7 @@
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Greta Gran's Potatoes](Main_Course/greta_gran_potatoes.md)
+- [Hungarian Lecso](Main_Course/hungarian_lecso.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
@@ -195,6 +196,7 @@
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
+- [Hungarian Lecso](Main_Course/hungarian_lecso.md)
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Moehrensalat](Side_Dish/mohrensalat.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
@@ -253,6 +255,7 @@
 
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
+- [Hungarian Lecso](Main_Course/hungarian_lecso.md)
 - [Meatballs](Main_Course/meatballs.md)
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 - [Pepper Crusted Fillet Mignon](Main_Course/pepper_crusted_fillet_mignon.md)
