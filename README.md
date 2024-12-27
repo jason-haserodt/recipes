@@ -27,6 +27,7 @@
 
 - [Candy Cane Cookies](Dessert/candy_cane_cookies.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
+- [Chocolate Angelfood Cake](Dessert/chocolate_angelfood_cake.md)
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Gingerbread Cookies](Dessert/gingerbread_cookies.md)
@@ -113,6 +114,7 @@
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
 - [Brussels Sprout Bread](Side_Dish/brussels_sprout_bread.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
+- [Chocolate Angelfood Cake](Dessert/chocolate_angelfood_cake.md)
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
