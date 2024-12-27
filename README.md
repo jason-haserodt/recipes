@@ -45,6 +45,7 @@
 
 ## Lunch
 
+- [Herring Salad](Lunch/herring_salad.md)
 - [Pan Bagnat](Lunch/pan_bagnat.md)
 
 ## Main Course
@@ -177,6 +178,7 @@
 - [Celeriac Slaw](Side_Dish/celeriac_slaw.md)
 - [Dry Fruit Truffles](Dessert/dry_fruit_truffles.md)
 - [Greta Gran's Potatoes](Main_Course/greta_gran_potatoes.md)
+- [Herring Salad](Lunch/herring_salad.md)
 
 ## Christmas
 
@@ -297,6 +299,7 @@
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
+- [Herring Salad](Lunch/herring_salad.md)
 - [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
