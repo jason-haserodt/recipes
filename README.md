@@ -81,6 +81,7 @@
 - [Pepper Crusted Fillet Mignon](Main_Course/pepper_crusted_fillet_mignon.md)
 - [Poaches Salmon](Main_Course/poached_salmon.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
+- [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
 - [Smash Burgers](Main_Course/smash_burgers.md)
@@ -245,6 +246,7 @@
 - [Carnitas](Main_Course/carnitas.md)
 - [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
 - [Peach and Mango Salsa](Side_Dish/peach_mango_salsa.md)
+- [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
@@ -280,6 +282,7 @@
 
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
+- [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 
 ## Duck
 
