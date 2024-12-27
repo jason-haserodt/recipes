@@ -75,6 +75,7 @@
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
+- [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
@@ -136,6 +137,7 @@
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
 - [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
+- [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
@@ -237,6 +239,7 @@
 - [Meatballs](Main_Course/meatballs.md)
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 - [Pepper Crusted Fillet Mignon](Main_Course/pepper_crusted_fillet_mignon.md)
+- [Smash Burgers](Main_Course/smash_burgers.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 
 ## Chicken
