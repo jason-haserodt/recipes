@@ -102,6 +102,7 @@
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
+- [Three Bean Salad](Side_Dish/three_bean_salad.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
 </details>
@@ -143,6 +144,7 @@
 - [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
+- [Three Bean Salad](Side_Dish/three_bean_salad.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 
 ## Asian
