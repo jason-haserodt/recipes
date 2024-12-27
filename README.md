@@ -31,6 +31,7 @@
 - [Chocolate Angelfood Cake](Dessert/chocolate_angelfood_cake.md)
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
+- [Dry Fruit Truffles](Dessert/dry_fruit_truffles.md)
 - [Gingerbread Cookies](Dessert/gingerbread_cookies.md)
 - [Green Tree Cookies](Dessert/green_tree_cookies.md)
 - [Mushroom Cookies](Dessert/mushroom_cookies.md)
@@ -157,6 +158,7 @@
 ## Baltic and Eastern European
 
 - [Celeriac Slaw](Side_Dish/celeriac_slaw.md)
+- [Dry Fruit Truffles](Dessert/dry_fruit_truffles.md)
 
 ## Christmas
 
