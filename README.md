@@ -92,6 +92,7 @@
 ## Side Dishes
 
 - [Ajaruli Khachapuri](Side_Dish/ajaruli_khachapuri.md)
+- [Bacon Baked Black Beans](Side_Dish/bacon_black_beans.md)
 - [Badrijani Nigvzit](Side_Dish/badrijani_nigvzit.md)
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
@@ -223,6 +224,7 @@
 
 ## Mexican, Tex-Mex, and Hispanic
 
+- [Bacon Baked Black Beans](Side_Dish/bacon_black_beans.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
