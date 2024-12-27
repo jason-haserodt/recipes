@@ -75,6 +75,7 @@
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
+- [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 - [Topinambur](Main_Course/topinambur.md)
@@ -200,11 +201,12 @@
 
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 
-## Mexican and Hispanic
+## Mexican, Tex-Mex, and Hispanic
 
 - [Carnitas](Main_Course/carnitas.md)
 - [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
+- [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 
 ## North African
 
@@ -278,6 +280,7 @@
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
+- [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
