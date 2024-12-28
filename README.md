@@ -62,6 +62,8 @@
 - [Carnitas](Main_Course/carnitas.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Chicken with Herbs and Tomatoes](Main_Course/chakhakhbili.md)
+- [Chicken with Mushrooms and Wine](Main_Course/chicken_with_mushrooms_and_wine.md)
+- [Chicken with Spinach and Cream](Main_Course/chicken_with_spinach_and_cream.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
@@ -208,6 +210,8 @@
 ## French
 
 - [Caramelized Garlic Tart](Side_Dish/caramelized_garlic_tart.md)
+- [Chicken with Mushrooms and Wine](Main_Course/chicken_with_mushrooms_and_wine.md)
+- [Chicken with Spinach and Cream](Main_Course/chicken_with_spinach_and_cream.md)
 - [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
 - [Pan Bagnat](Main_Course/pan_bagnat.md)
 
@@ -309,6 +313,8 @@
 
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
 - [Chicken with Herbs and Tomatoes](Main_Course/chakhakhbili.md)
+- [Chicken with Mushrooms and Wine](Main_Course/chicken_with_mushrooms_and_wine.md)
+- [Chicken with Spinach and Cream](Main_Course/chicken_with_spinach_and_cream.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 
