@@ -37,6 +37,8 @@ _Course:  Main Course_
 1. During the last hour, brush the **ribs** with **North Carolina-style mustard BBQ sauce** every 10 minutes.
 1. Transfer **ribs** to a serving platter and let sit for 10 minutes.
 
+_Optional: For two racks of ribs, double the ingredients and smoke for the same amount of time_
+
 ## From
 
 Adapted from [Bobby Flay](https://www.foodnetwork.com/recipes/bobby-flay/smoked-ribs-with-carolina-style-bbq-sauce-recipe-1919500)
