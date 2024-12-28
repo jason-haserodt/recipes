@@ -91,6 +91,7 @@
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
 - [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
+- [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
@@ -168,6 +169,7 @@
 - [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
 - [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
+- [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
 - [Southern Cobbler](Dessert/southern_cobbler.md)
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
 - [Three Bean Salad](Side_Dish/three_bean_salad.md)
@@ -290,6 +292,7 @@
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 - [Pepper Crusted Fillet Mignon](Main_Course/pepper_crusted_fillet_mignon.md)
 - [Smash Burgers](Main_Course/smash_burgers.md)
+- [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 
 ## Chicken
