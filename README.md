@@ -93,6 +93,7 @@
 - [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
+- [Smoked Ribs with Carolina-Style BBQ Sauce](Main_Course/smoked_ribs.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
@@ -171,6 +172,7 @@
 - [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
+- [Smoked Ribs with Carolina-Style BBQ Sauce](Main_Course/smoked_ribs.md)
 - [Southern Cobbler](Dessert/southern_cobbler.md)
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
 - [Three Bean Salad](Side_Dish/three_bean_salad.md)
@@ -337,6 +339,7 @@
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
 - [Peach Pork Chops](Main_Course/peach_pork_chops.md)
+- [Smoked Ribs with Carolina-Style BBQ Sauce](Main_Course/smoked_ribs.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 
