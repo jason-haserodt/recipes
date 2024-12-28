@@ -126,6 +126,7 @@
 - [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
 - [Three Bean Salad](Side_Dish/three_bean_salad.md)
+- [Watermelon-Tomato Salad](Side_Dish/watermelon_tomato_salad.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
 </details>
@@ -177,6 +178,7 @@
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
 - [Three Bean Salad](Side_Dish/three_bean_salad.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
+- [Watermelon-Tomato Salad](Side_Dish/watermelon_tomato_salad.md)
 
 ## Asian
 
