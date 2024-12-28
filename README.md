@@ -110,6 +110,7 @@
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
 - [Brussels Sprout Bread](Side_Dish/brussels_sprout_bread.md)
+- [Caramelized Garlic Tart](Side_Dish/caramelized_garlic_tart.md)
 - [Celeriac Slaw](Side_Dish/celeriac_slaw.md)
 - [Herbed Kidney Beans](Side_Dish/herbed_kidney_beans.md)
 - [Italian White Bean Salad](Side_Dish/italian_white_bean_salad.md)
@@ -193,6 +194,7 @@
 
 ## French
 
+- [Caramelized Garlic Tart](Side_Dish/caramelized_garlic_tart.md)
 - [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
 - [Pan Bagnat](Main_Course/pan_bagnat.md)
 
