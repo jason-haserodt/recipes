@@ -45,6 +45,7 @@
 
 ## Lunch
 
+- [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
 - [Herring Salad](Lunch/herring_salad.md)
 - [Pan Bagnat](Lunch/pan_bagnat.md)
 
@@ -254,6 +255,7 @@
 
 ## Mediterranean
 
+- [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 
 ## Mexican, Tex-Mex, and Hispanic
@@ -344,6 +346,7 @@
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
+- [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Greta Gran's Potatoes](Main_Course/greta_gran_potatoes.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
