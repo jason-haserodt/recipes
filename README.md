@@ -60,6 +60,7 @@
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
+- [Chicken with Herbs and Tomatoes](Main_Course/chakhakhbili.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
@@ -201,6 +202,7 @@
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
 - [Badrijani Nigvzit](Side_Dish/badrijani_nigvzit.md)
 - [Borscht](Main_Course/borscht.md)
+- [Chicken with Herbs and Tomatoes](Main_Course/chakhakhbili.md)
 - [Herbed Kidney Beans](Side_Dish/herbed_kidney_beans.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
@@ -289,6 +291,7 @@
 ## Chicken
 
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
+- [Chicken with Herbs and Tomatoes](Main_Course/chakhakhbili.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 
