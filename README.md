@@ -77,6 +77,7 @@
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
+- [Gazpacho](Main_Course/gazpacho.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Greta Gran's Potatoes](Main_Course/greta_gran_potatoes.md)
 - [Hungarian Lecso](Main_Course/hungarian_lecso.md)
@@ -301,6 +302,7 @@
 
 ## Spanish
 
+- [Gazpacho](Main_Course/gazpacho.md)
 - [Paella](Main_Course/paella.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 
@@ -382,6 +384,7 @@
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
+- [Gazpacho](Main_Course/gazpacho.md)
 - [Greta Gran's Potatoes](Main_Course/greta_gran_potatoes.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
