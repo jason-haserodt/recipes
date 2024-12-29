@@ -59,6 +59,7 @@
 - [BBQ](Main_Course/bbq.md)
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
 - [Borscht](Main_Course/borscht.md)
+- [Bubenspitzle](Main_Course/bubenspitzle.md)
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
 - [Butternut Squash Soup - Thai Version](Main_Course/thai_butternut_squash_soup.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
@@ -241,6 +242,7 @@
 
 ## German and Central European
 
+- [Bubenspitzle](Main_Course/bubenspitzle.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Frigga mit Polenta](Main_Course/frigga.md)
@@ -355,6 +357,7 @@
 
 - [BBQ](Main_Course/bbq.md)
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
+- [Bubenspitzle](Main_Course/bubenspitzle.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
