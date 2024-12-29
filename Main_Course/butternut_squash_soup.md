@@ -10,6 +10,7 @@ _Course:  Main Course_
 - 1 butternut squash, cubed
 - 4 cups chicken broth
 - cinnamon, nutmeg, allspice, and cardamom, to taste
+- salt and pepper, to taste
 - 3/4 cup heavy cream
 
 ## Instructions
