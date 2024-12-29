@@ -66,6 +66,7 @@
 - [Chicken with Herbs and Tomatoes](Main_Course/chakhakhbili.md)
 - [Chicken with Mushrooms and Wine](Main_Course/chicken_with_mushrooms_and_wine.md)
 - [Chicken with Spinach and Cream](Main_Course/chicken_with_spinach_and_cream.md)
+- [Chilli](Main_Course/chilli.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
@@ -278,6 +279,7 @@
 
 - [Bacon Baked Black Beans](Side_Dish/bacon_black_beans.md)
 - [Carnitas](Main_Course/carnitas.md)
+- [Chilli](Main_Course/chilli.md)
 - [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
 - [Peach and Mango Salsa](Side_Dish/peach_mango_salsa.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
@@ -304,6 +306,7 @@
 ## Beef
 
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
+- [Chilli](Main_Course/chilli.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Hungarian Lecso](Main_Course/hungarian_lecso.md)
 - [Meatballs](Main_Course/meatballs.md)
