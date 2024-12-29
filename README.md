@@ -59,6 +59,7 @@
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
 - [Borscht](Main_Course/borscht.md)
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
+- [Butternut Squash Soup - Thai Version](Main_Course/thai_butternut_squash_soup.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
@@ -191,6 +192,7 @@
 ## Asian
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
+- [Butternut Squash Soup - Thai Version](Main_Course/thai_butternut_squash_soup.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 
@@ -363,6 +365,7 @@
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
+- [Butternut Squash Soup - Thai Version](Main_Course/thai_butternut_squash_soup.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
