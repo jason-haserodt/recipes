@@ -104,6 +104,7 @@
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
 - [Smoked Ribs with Carolina-Style BBQ Sauce](Main_Course/smoked_ribs.md)
+- [Smoked Trout-Apple Hash](Main_Course/smoked_trout_apple_hash.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
@@ -194,6 +195,7 @@
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
 - [Smoked Ribs with Carolina-Style BBQ Sauce](Main_Course/smoked_ribs.md)
+- [Smoked Trout-Apple Hash](Main_Course/smoked_trout_apple_hash.md)
 - [Southern Cobbler](Dessert/southern_cobbler.md)
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
 - [Three Bean Salad](Side_Dish/three_bean_salad.md)
@@ -358,6 +360,7 @@
 - [Poached Salmon](Main_Course/poached_salmon.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
+- [Smoked Trout-Apple Hash](Main_Course/smoked_trout_apple_hash.md)
 - [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 
 ## Lamb
