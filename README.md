@@ -69,6 +69,7 @@
 - [Chicken with Mushrooms and Wine](Main_Course/chicken_with_mushrooms_and_wine.md)
 - [Chicken with Spinach and Cream](Main_Course/chicken_with_spinach_and_cream.md)
 - [Chilli](Main_Course/chilli.md)
+- [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Creamy Tex-Mex Cornbread Bake](Main_Course/creamy_tex_mex_cornbread_bake.md)
@@ -280,6 +281,7 @@
 
 ## Mediterranean
 
+- [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 
@@ -343,6 +345,7 @@
 ## Fish and Seafood
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
+- [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Golden Fettuccine with Sardines, Fennel and Saffron](Main_Course/golden_fettuccine_with_sardines_fennel_and_saffron.md)
 - [Herring Salad](Lunch/herring_salad.md)
