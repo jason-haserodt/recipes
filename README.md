@@ -70,6 +70,7 @@
 - [Chicken with Spinach and Cream](Main_Course/chicken_with_spinach_and_cream.md)
 - [Chilli](Main_Course/chilli.md)
 - [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
+- [Cowboy Beef and Bean Stew](Main_Course/cowboy_beef_and_bean_stew.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Creamy Tex-Mex Cornbread Bake](Main_Course/creamy_tex_mex_cornbread_bake.md)
@@ -296,6 +297,7 @@
 - [Bacon Baked Black Beans](Side_Dish/bacon_black_beans.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Chilli](Main_Course/chilli.md)
+- [Cowboy Beef and Bean Stew](Main_Course/cowboy_beef_and_bean_stew.md)
 - [Creamy Tex-Mex Cornbread Bake](Main_Course/creamy_tex_mex_cornbread_bake.md)
 - [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
 - [Peach and Mango Salsa](Side_Dish/peach_mango_salsa.md)
@@ -325,6 +327,7 @@
 
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Chilli](Main_Course/chilli.md)
+- [Cowboy Beef and Bean Stew](Main_Course/cowboy_beef_and_bean_stew.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Hungarian Lecso](Main_Course/hungarian_lecso.md)
 - [Meatballs](Main_Course/meatballs.md)
