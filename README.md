@@ -7,6 +7,7 @@
 
 ## Breakfast
 
+- [Best Buttermilk Pancakes](Breakfast/best_buttermilk_pancakes.md)
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
 - [Dutch Baby](Breakfast/dutch_baby.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
@@ -160,6 +161,7 @@
 - [Apple Pie](Dessert/apple_pie.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [BBQ](Main_Course/bbq.md)
+- [Best Buttermilk Pancakes](Breakfast/best_buttermilk_pancakes.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
 - [Brussels Sprout Bread](Side_Dish/brussels_sprout_bread.md)
