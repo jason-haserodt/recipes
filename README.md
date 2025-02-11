@@ -117,6 +117,7 @@
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 - [Tsampa](Main_Course/tsampa.md)
+- [Venison Bolognese](Main_Course/venison_bolognese.md)
 - [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 - [White Bean and Kale Stew](Main_Course/white_bean_and_kale_stew.md)
 
@@ -290,6 +291,7 @@
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
+- [Venison Bolognese](Main_Course/venison_bolognese.md)
 
 ## Mediterranean
 
@@ -421,5 +423,9 @@
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
 - [Tsampa](Main_Course/tsampa.md)
 - [White Bean and Kale Stew](Main_Course/white_bean_and_kale_stew.md)
+
+## Venison
+
+- [Venison Bolognese](Main_Course/venison_bolognese.md)
 
 </details>
