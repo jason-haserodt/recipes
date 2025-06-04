@@ -38,6 +38,7 @@
 - [Dry Fruit Truffles](Dessert/dry_fruit_truffles.md)
 - [Gingerbread Cookies](Dessert/gingerbread_cookies.md)
 - [Green Tree Cookies](Dessert/green_tree_cookies.md)
+- [Lemon Pie](Dessert/lemon_pie.md)
 - [Mango Upside Down Cake](Dessert/mango_upside_down_cake.md)
 - [Mushroom Cookies](Dessert/mushroom_cookies.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
