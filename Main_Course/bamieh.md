@@ -18,6 +18,7 @@ _Course:  Main Course_
 - 6-8 tomatoes
 - 2 cloves garlic
 - 1.5 tbsp baharat spice mix
+- salt and pepper, to taste
 
 ## Instructions
 
@@ -26,6 +27,7 @@ _Course:  Main Course_
 1. Saute **okra** with **olive oil** in a medium pot.
 1. Add **garlic** and saute for two minutes longer.
 1. Add **tomatoes** and 1.5 tbsp **Baharat spice mix** and simmer, covered, for 20 minutes.
+1. Season with **salt** and **pepper**.
 1. Remove cover as needed to evaporate extra liquid.
 1. Serve over rice.
 
