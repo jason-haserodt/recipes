@@ -12,6 +12,7 @@
 - [Dutch Baby](Breakfast/dutch_baby.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
+- [Muesli](Breakfast/muesli.md)
 - [No-Knead Bread](Breakfast/no_knead_bread.md)
 - [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
 - [Poop Smoothie](Breakfast/poop_smoothie.md)
@@ -279,6 +280,7 @@
 - [Hungarian Lecso](Main_Course/hungarian_lecso.md)
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Moehrensalat](Side_Dish/mohrensalat.md)
+- [Muesli](Breakfast/muesli.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## Indian and South Asian
