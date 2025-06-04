@@ -58,6 +58,7 @@
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Baked Pasta with Aubergines](Main_Course/baked_pasta_with_aubergines.md)
+- [Bamieh](Main_Course/bamieh.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [BBQ](Main_Course/bbq.md)
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
@@ -183,6 +184,7 @@
 - [Dutch Baby](Breakfast/dutch_baby.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
 - [Kale Smoothie](Breakfast/kale_smoothie.md)
+- [Lemon Pie](Dessert/lemon_pie.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Mango Upside Down Cake](Dessert/mango_upside_down_cake.md)
 - [Maple Roasted Butternut Squash](Side_Dish/maple_roasted_butternut_squash.md)
@@ -323,6 +325,10 @@
 
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
 
+## Persian
+
+- [Bamieh](Main_Course/bamieh.md)
+
 ## Spanish
 
 - [Gazpacho](Main_Course/gazpacho.md)
@@ -404,6 +410,7 @@
 ## Vegetarian
 
 - [Baked Pasta with Aubergines](Main_Course/baked_pasta_with_aubergines.md)
+- [Bamieh](Main_Course/bamieh.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
