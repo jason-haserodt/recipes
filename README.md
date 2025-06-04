@@ -63,6 +63,7 @@
 - [BBQ](Main_Course/bbq.md)
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
 - [Borscht](Main_Course/borscht.md)
+- [Bratwurst with Onions and Peppers](Main_Course/bratwurst_onions_peppers.md)
 - [Bubenspitzle](Main_Course/bubenspitzle.md)
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
 - [Butternut Squash Soup - Thai Version](Main_Course/thai_butternut_squash_soup.md)
@@ -169,6 +170,7 @@
 - [Best Buttermilk Pancakes](Breakfast/best_buttermilk_pancakes.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
+- [Bratwurst with Onions and Peppers](Main_Course/bratwurst_onions_peppers.md)
 - [Brussels Sprout Bread](Side_Dish/brussels_sprout_bread.md)
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
@@ -397,6 +399,7 @@
 
 - [BBQ](Main_Course/bbq.md)
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
+- [Bratwurst with Onions and Peppers](Main_Course/bratwurst_onions_peppers.md)
 - [Bubenspitzle](Main_Course/bubenspitzle.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
