@@ -49,6 +49,7 @@
 
 ## Lunch
 
+- [Bulgur with Chard and Yogurt](Lunch/bulgur_chard_yogurt.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
 - [Herring Salad](Lunch/herring_salad.md)
 - [Pan Bagnat](Lunch/pan_bagnat.md)
@@ -308,6 +309,7 @@
 
 ## Mediterranean
 
+- [Bulgur with Chard and Yogurt](Lunch/bulgur_chard_yogurt.md)
 - [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
@@ -420,6 +422,7 @@
 - [Bamieh](Main_Course/bamieh.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [Borscht](Main_Course/borscht.md)
+- [Bulgur with Chard and Yogurt](Lunch/bulgur_chard_yogurt.md)
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
 - [Butternut Squash Soup - Thai Version](Main_Course/thai_butternut_squash_soup.md)
 - [Cacio e Pepe](Main_Course/cacio_e_pepe)
