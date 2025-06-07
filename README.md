@@ -23,6 +23,7 @@
 
 ## Condiments
 
+- [Amarillo Chili Sauce](Condiments/amarillo_chili_sauce.md)
 - [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
@@ -323,6 +324,7 @@
 
 ## Mexican, Tex-Mex, and Hispanic
 
+- [Amarillo Chili Sauce](Condiments/amarillo_chili_sauce.md)
 - [Bacon Baked Black Beans](Side_Dish/bacon_black_beans.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Chilli](Main_Course/chilli.md)
