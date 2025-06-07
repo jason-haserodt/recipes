@@ -121,6 +121,7 @@
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Sweet Potato Kale Pizza](Main_Course/sweet_potato_kale_pizza.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
+- [Tomato Pie](Main_Course/tomato_pie.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
@@ -222,6 +223,7 @@
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
 - [Sweet Potato Kale Pizza](Main_Course/sweet_potato_kale_pizza.md)
 - [Three Bean Salad](Side_Dish/three_bean_salad.md)
+- [Tomato Pie](Main_Course/tomato_pie.md)
 - [Tumeric Carrot Smoothie](Breakfast/tumeric_carrot_smoothie.md)
 - [Watermelon-Tomato Salad](Side_Dish/watermelon_tomato_salad.md)
 
