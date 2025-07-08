@@ -112,6 +112,7 @@
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
+- [Saffron Chicken and Herb Salad](Main_Course/saffron_chicken.md)
 - [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
@@ -320,6 +321,7 @@
 - [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
+- [Saffron Chicken and Herb Salad](Main_Course/saffron_chicken.md)
 - [White Bean and Kale Stew](Main_Course/white_bean_and_kale_stew.md)
 
 ## Mexican, Tex-Mex, and Hispanic
@@ -381,6 +383,7 @@
 - [Creamy Tex-Mex Cornbread Bake](Main_Course/creamy_tex_mex_cornbread_bake.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
+- [Saffron Chicken and Herb Salad](Main_Course/saffron_chicken.md)
 
 ## Duck
 
