@@ -28,6 +28,7 @@
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
+- [Yogurt with Cucumbers](Condiments/yogurt_cucumber.md)
 
 ## Dessert
 
