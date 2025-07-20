@@ -125,6 +125,7 @@
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
+- [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
 - [Sweet Potato Kale Pizza](Main_Course/sweet_potato_kale_pizza.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 - [Tomato Pie](Main_Course/tomato_pie.md)
@@ -333,6 +334,7 @@
 - [Maqluba](Main_Course/maqluba.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 - [Saffron Chicken and Herb Salad](Main_Course/saffron_chicken.md)
+- [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
 - [White Bean and Kale Stew](Main_Course/white_bean_and_kale_stew.md)
 
 ## Mexican, Tex-Mex, and Hispanic
@@ -423,6 +425,7 @@
 
 - [Kebabi](Main_Course/kebabi.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
+- [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
 
 ## Pork
 
