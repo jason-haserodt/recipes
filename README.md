@@ -8,6 +8,7 @@
 ## Breakfast
 
 - [Best Buttermilk Pancakes](Breakfast/best_buttermilk_pancakes.md)
+- [Chocolate Waffles](Breakfast/chocolate_waffles.md)
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
 - [Dutch Baby](Breakfast/dutch_baby.md)
 - [Henrik's Oatmeal](Breakfast/henriks_oatmeal.md)
@@ -190,6 +191,7 @@
 - [Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 - [Chocolate Souffle](Dessert/chocolate_souffle.md)
 - [Chocolaate Stout Cake](Dessert/chocolate_stout_cake.md)
+- [Chocolate Waffles](Breakfast/chocolate_waffles.md)
 - [Collard Greens](Side_Dish/collard_greens.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
 - [Cranberry Bread](Breakfast/cranberry_bread.md)
