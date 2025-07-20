@@ -138,6 +138,7 @@
 ## Side Dishes
 
 - [Ajaruli Khachapuri](Side_Dish/ajaruli_khachapuri.md)
+- [Baby Spinach Salad with Dates and Almonds](Side_Dish/baby_spinach_salad.md)
 - [Bacon Baked Black Beans](Side_Dish/bacon_black_beans.md)
 - [Badrijani Nigvzit](Side_Dish/badrijani_nigvzit.md)
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
@@ -322,6 +323,7 @@
 
 ## Mediterranean
 
+- [Baby Spinach Salad with Dates and Almonds](Side_Dish/baby_spinach_salad.md)
 - [Bulgur with Chard and Yogurt](Lunch/bulgur_chard_yogurt.md)
 - [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
