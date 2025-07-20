@@ -393,6 +393,7 @@
 - [Chicken with Spinach and Cream](Main_Course/chicken_with_spinach_and_cream.md)
 - [Creamy Tex-Mex Cornbread Bake](Main_Course/creamy_tex_mex_cornbread_bake.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
+- [Maqluba](Main_Course/maqluba.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 - [Saffron Chicken and Herb Salad](Main_Course/saffron_chicken.md)
 
@@ -455,7 +456,6 @@
 - [Gazpacho](Main_Course/gazpacho.md)
 - [Greta Gran's Potatoes](Main_Course/greta_gran_potatoes.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
-- [Maqluba](Main_Course/maqluba.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Pan Bagnat](Main_Course/pan_bagnat.md)
 - [Peach Blueberry Shortcake](Main_Course/peach_blueberry_shortcake.md)
