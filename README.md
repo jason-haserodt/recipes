@@ -69,6 +69,7 @@
 - [BBQ](Main_Course/bbq.md)
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
 - [Borscht](Main_Course/borscht.md)
+- [Braised Eggs with Lamb](Main_Course/braised_eggs_with_lamb.md)
 - [Bratwurst with Onions and Peppers](Main_Course/bratwurst_onions_peppers.md)
 - [Bubenspitzle](Main_Course/bubenspitzle.md)
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
@@ -326,6 +327,7 @@
 ## Mediterranean
 
 - [Baby Spinach Salad with Dates and Almonds](Side_Dish/baby_spinach_salad.md)
+- [Braised Eggs with Lamb](Main_Course/braised_eggs_with_lamb.md)
 - [Bulgur with Chard and Yogurt](Lunch/bulgur_chard_yogurt.md)
 - [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
@@ -423,6 +425,7 @@
 
 ## Lamb
 
+- [Braised Eggs with Lamb](Main_Course/braised_eggs_with_lamb.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
