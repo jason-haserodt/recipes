@@ -114,6 +114,7 @@
 - [Pepper Crusted Fillet Mignon](Main_Course/pepper_crusted_fillet_mignon.md)
 - [Pesto Cod with Asparagus and Cherry Tomatoes](Main_Course/pesto_cod.md)
 - [Poaches Salmon](Main_Course/poached_salmon.md)
+- [Poke Bowl](Main_Course/poke_bowl.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
@@ -244,6 +245,7 @@
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Butternut Squash Soup - Thai Version](Main_Course/thai_butternut_squash_soup.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
+- [Poke Bowl](Main_Course/poke_bowl.md)
 - [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 
 ## Baltic and Eastern European
@@ -421,6 +423,7 @@
 - [Panfried Sea Bass with Harissa](Main_Course/panfried_sea_bass_with_harissa.md)
 - [Pesto Cod with Asparagus and Cherry Tomatoes](Main_Course/pesto_cod.md)
 - [Poached Salmon](Main_Course/poached_salmon.md)
+- [Poke Bowl](Main_Course/poke_bowl.md)
 - [Pomegranate Balsamic Glazed Salmon](Main_Course/pomegranate_balasmic_glazed_salmon.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Smoked Trout-Apple Hash](Main_Course/smoked_trout_apple_hash.md)
