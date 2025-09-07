@@ -132,6 +132,7 @@
 - [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
 - [Sweet Potato Kale Pizza](Main_Course/sweet_potato_kale_pizza.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
+- [Tajin Chicken](Main_Course/tajin_chicken.md)
 - [Tomato Pie](Main_Course/tomato_pie.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
@@ -361,6 +362,7 @@
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
+- [Tajin Chicken](Main_Course/tajin_chicken.md)
 
 ## North African
 
@@ -408,6 +410,7 @@
 - [Maqluba](Main_Course/maqluba.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 - [Saffron Chicken and Herb Salad](Main_Course/saffron_chicken.md)
+- [Tajin Chicken](Main_Course/tajin_chicken.md)
 
 ## Duck
 
