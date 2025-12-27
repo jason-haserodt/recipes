@@ -89,6 +89,7 @@
 - [Creamy Tex-Mex Cornbread Bake](Main_Course/creamy_tex_mex_cornbread_bake.md)
 - [Creamy White Beans with Pancetta and Rosemary](Main_Course/creamy_white_beans_with_pancetta.md)
 - [Crispy Duck Breast](Main_Course/crispy_duck_breast.md)
+- [Deconstructed Kebab](Main_Course/deconstructed_kebab.md)
 - [Farfalle with Caramelized Onions, Peas and Mint](Main_Course/farfalle_onions_peas_mint.md)
 - [Fava Bean Kuku](Main_Course/fava_bean_kuku.md)
 - [Fennel Sausages with Wrinkled Grapes and Grape Extract](Main_Course/fennel_sausages_with_grapes.md)
@@ -337,6 +338,7 @@
 - [Bulgur with Chard and Yogurt](Lunch/bulgur_chard_yogurt.md)
 - [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
+- [Deconstructed Kebab](Main_Course/deconstructed_kebab.md)
 - [Fava Bean Kuku](Main_Course/fava_bean_kuku.md)
 - [Fried Tomatoes with Garlic](Side_Dish/fried_tomatoes.md)
 - [Maqluba](Main_Course/maqluba.md)
@@ -371,6 +373,7 @@
 ## Persian
 
 - [Bamieh](Main_Course/bamieh.md)
+- [Deconstructed Kebab](Main_Course/deconstructed_kebab.md)
 
 ## Spanish
 
@@ -391,6 +394,7 @@
 - [Chilli](Main_Course/chilli.md)
 - [Cowboy Beef and Bean Stew](Main_Course/cowboy_beef_and_bean_stew.md)
 - [Cowboy Sundae](Main_Course/cowboy_sundae.md)
+- [Deconstructed Kebab](Main_Course/deconstructed_kebab.md)
 - [Hungarian Lecso](Main_Course/hungarian_lecso.md)
 - [Meatballs](Main_Course/meatballs.md)
 - [Moroccan Beef Stew](Main_Course/moroccan_beef_stew.md)
@@ -439,6 +443,7 @@
 ## Lamb
 
 - [Braised Eggs with Lamb](Main_Course/braised_eggs_with_lamb.md)
+- [Deconstructed Kebab](Main_Course/deconstructed_kebab.md)
 - [Kebabi](Main_Course/kebabi.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
