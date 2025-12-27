@@ -29,6 +29,7 @@
 - [Perserved Lemons](Condiments/preserved_lemons.md)
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
+- [Salsa Criolla](Condiments/salsa_criolla.md)
 - [Yogurt with Cucumbers](Condiments/yogurt_cucumber.md)
 
 ## Dessert
@@ -366,6 +367,7 @@
 - [Peach and Mango Salsa](Side_Dish/peach_mango_salsa.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
+- [Salsa Criolla](Condiments/salsa_criolla.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 - [Tajin Chicken](Main_Course/tajin_chicken.md)
