@@ -57,6 +57,7 @@
 
 - [Black Manhattan](Drinks/black_manhattan.md)
 - [Bourbon Sidecar](Drinks/bourbon_sidecar.md)
+- [Dry-Hopped Cold-Brewed Coffee](Drinks/dry-hopped_cold_brew_coffee.md)
 - [Hot Toddy](Drinks/hot_toddy.md)
 - [Pineapple Ginger Juice](Drinks/pinapple_ginger_juice.md)
 - [That's My Jam](Drinks/thats_my_jam.md)
