@@ -53,6 +53,8 @@
 - [Stollen](Dessert/stollen.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
+## Drinks
+
 ## Lunch
 
 - [Bulgur with Chard and Yogurt](Lunch/bulgur_chard_yogurt.md)
