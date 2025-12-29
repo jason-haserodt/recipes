@@ -56,6 +56,7 @@
 ## Drinks
 
 - [Black Manhattan](Drinks/black_manhattan.md)
+- [Pineapple Ginger Juice](Drinks/pinapple_ginger_juice.md)
 - [That's My Jam](Drinks/thats_my_jam.md)
 
 ## Lunch
@@ -378,6 +379,7 @@
 - [Octopus and Huachana Sausage Skewers](Main_Course/octopus_sausage_skewers.md)
 - [Pastelites de Guayaba](Breakfast/pastelites_de_guayaba.md)
 - [Peach and Mango Salsa](Side_Dish/peach_mango_salsa.md)
+- [Pineapple Ginger Juice](Drinks/pinapple_ginger_juice.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
 - [Salsa Criolla](Condiments/salsa_criolla.md)
