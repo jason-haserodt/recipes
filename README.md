@@ -55,6 +55,7 @@
 
 ## Drinks
 
+- [Black Manhattan](Drinks/black_manhattan.md)
 - [That's My Jam](Drinks/thats_my_jam.md)
 
 ## Lunch
@@ -200,6 +201,7 @@
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [BBQ](Main_Course/bbq.md)
 - [Best Buttermilk Pancakes](Breakfast/best_buttermilk_pancakes.md)
+- [Black Manhattan](Drinks/black_manhattan.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
 - [Bratwurst with Onions and Peppers](Main_Course/bratwurst_onions_peppers.md)
