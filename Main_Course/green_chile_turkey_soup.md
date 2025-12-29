@@ -10,7 +10,7 @@ _Course:  Main Course_
 - 2 tsp oregano
 - 2 tsp cumin
 - 1 tsp chili powder
-- 6 tomatillos, chopped
+- 6 tomatillos, chopped - or substitue for one jar of salsa verde
 - 2 cans corn
 - 1 4oz can green chilis
 - 4 cups shredded turkey or chicken
