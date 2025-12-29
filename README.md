@@ -56,6 +56,7 @@
 ## Drinks
 
 - [Black Manhattan](Drinks/black_manhattan.md)
+- [Bourbon Sidecar](Drinks/bourbon_sidecar.md)
 - [Hot Toddy](Drinks/hot_toddy.md)
 - [Pineapple Ginger Juice](Drinks/pinapple_ginger_juice.md)
 - [That's My Jam](Drinks/thats_my_jam.md)
@@ -204,6 +205,7 @@
 - [BBQ](Main_Course/bbq.md)
 - [Best Buttermilk Pancakes](Breakfast/best_buttermilk_pancakes.md)
 - [Black Manhattan](Drinks/black_manhattan.md)
+- [Bourbon Sidecar](Drinks/bourbon_sidecar.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
 - [Bratwurst with Onions and Peppers](Main_Course/bratwurst_onions_peppers.md)
