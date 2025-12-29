@@ -174,6 +174,7 @@
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Peach and Mango Salsa](Side_Dish/peach_mango_salsa.md)
 - [Pickles](Side_Dish/pickles.md)
+- [Red Cabbage](Side_Dish/red_cabbage.md)
 - [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
 - [Roasted Fennel, Sweet Potato, and Garlic Salad](Side_Dish/roasted_fennel_sweet_potato_salad)
 - [Roasted Sweet Potatoes and Fresh Figs](Side_Dish/roasted_sweet_potatoes_with_figs.md)
@@ -310,6 +311,7 @@
 - [Kynute Knedliky](Side_Dish/kynute_knedliky.md)
 - [Moehrensalat](Side_Dish/mohrensalat.md)
 - [Muesli](Breakfast/muesli.md)
+- [Red Cabbage](Side_Dish/red_cabbage.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## Indian and South Asian
