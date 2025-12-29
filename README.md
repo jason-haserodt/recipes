@@ -56,6 +56,7 @@
 ## Drinks
 
 - [Black Manhattan](Drinks/black_manhattan.md)
+- [Hot Toddy](Drinks/hot_toddy.md)
 - [Pineapple Ginger Juice](Drinks/pinapple_ginger_juice.md)
 - [That's My Jam](Drinks/thats_my_jam.md)
 
