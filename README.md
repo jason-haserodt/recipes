@@ -55,6 +55,7 @@
 
 ## Drinks
 
+- [Al Chile!](Drinks/al_chile.md)
 - [Beer Bee's Knees](Drinks/beer_bees_knees.md)
 - [Black Manhattan](Drinks/black_manhattan.md)
 - [Bourbon Sidecar](Drinks/bourbon_sidecar.md)
@@ -376,6 +377,7 @@
 
 ## Mexican, Tex-Mex, and Hispanic
 
+- [Al Chile!](Drinks/al_chile.md)
 - [Amarillo Chili Sauce](Condiments/amarillo_chili_sauce.md)
 - [Bacon Baked Black Beans](Side_Dish/bacon_black_beans.md)
 - [Carnitas](Main_Course/carnitas.md)
