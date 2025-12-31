@@ -55,6 +55,7 @@
 
 ## Drinks
 
+- [Beer Bee's Knees](Drinks/beer_bees_knees.md)
 - [Black Manhattan](Drinks/black_manhattan.md)
 - [Bourbon Sidecar](Drinks/bourbon_sidecar.md)
 - [Dry-Hopped Cold-Brewed Coffee](Drinks/dry-hopped_cold_brew_coffee.md)
@@ -205,6 +206,7 @@
 - [Apple Pie](Dessert/apple_pie.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [BBQ](Main_Course/bbq.md)
+- [Beer Bee's Knees](Drinks/beer_bees_knees.md)
 - [Best Buttermilk Pancakes](Breakfast/best_buttermilk_pancakes.md)
 - [Black Manhattan](Drinks/black_manhattan.md)
 - [Bourbon Sidecar](Drinks/bourbon_sidecar.md)
