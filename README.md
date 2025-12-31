@@ -30,6 +30,7 @@
 - [Pickled Peppers](Condiments/pickled_peppers.md)
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
 - [Salsa Criolla](Condiments/salsa_criolla.md)
+- [Tkemali](Condiments/tkemali.md)
 - [Yogurt with Cucumbers](Condiments/yogurt_cucumber.md)
 
 ## Dessert
@@ -319,6 +320,7 @@
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
+- [Tkemali](Condiments/tkemali.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
 ## German and Central European
