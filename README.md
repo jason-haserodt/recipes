@@ -63,6 +63,7 @@
 - [French 75](Drinks/french_75.md)
 - [Hot Toddy](Drinks/hot_toddy.md)
 - [Pineapple Ginger Juice](Drinks/pinapple_ginger_juice.md)
+- [Quarter Horse](Drinks/quarter_horse.md)
 - [That's My Jam](Drinks/thats_my_jam.md)
 
 ## Lunch
@@ -250,6 +251,7 @@
 - [Poop Smoothie](Breakfast/poop_smoothie.md)
 - [Pour Over Coffee](Breakfast/pour_over_coffee.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
+- [Quarter Horse](Drinks/quarter_horse.md)
 - [Reevesland Vinaigrette](Condiments/reevesland_vinaigrette.md)
 - [Rice Pudding](Dessert/rice_pudding.md)
 - [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
