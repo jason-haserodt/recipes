@@ -58,6 +58,7 @@
 - [Black Manhattan](Drinks/black_manhattan.md)
 - [Bourbon Sidecar](Drinks/bourbon_sidecar.md)
 - [Dry-Hopped Cold-Brewed Coffee](Drinks/dry-hopped_cold_brew_coffee.md)
+- [French 75](Drinks/french_75.md)
 - [Hot Toddy](Drinks/hot_toddy.md)
 - [Pineapple Ginger Juice](Drinks/pinapple_ginger_juice.md)
 - [That's My Jam](Drinks/thats_my_jam.md)
@@ -292,6 +293,7 @@
 - [Caramelized Garlic Tart](Side_Dish/caramelized_garlic_tart.md)
 - [Chicken with Mushrooms and Wine](Main_Course/chicken_with_mushrooms_and_wine.md)
 - [Chicken with Spinach and Cream](Main_Course/chicken_with_spinach_and_cream.md)
+- [French 75](Drinks/french_75.md)
 - [Mussels with Garlic and Parsley](Main_Course/mussels_with_garlic_and%20parsley.md)
 - [Pan Bagnat](Main_Course/pan_bagnat.md)
 
