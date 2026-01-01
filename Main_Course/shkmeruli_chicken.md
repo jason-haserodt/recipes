@@ -1,3 +1,5 @@
+![Shkmeruli Chicken](shkmeruli.jpg)
+
 # Shkmeruli Chicken
 
 _Cuisine:  Georgian_<br />
