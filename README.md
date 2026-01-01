@@ -142,6 +142,7 @@
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
 - [Saffron Chicken and Herb Salad](Main_Course/saffron_chicken.md)
+- [Shkmeruli Chicken](Main_Course/shkmeruli_chicken.md)
 - [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked and Fresh Salmon en Chemise](Main_Course/smoked_and_fresh_salmon.md)
 - [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
@@ -323,6 +324,7 @@
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
+- [Shkmeruli Chicken](Main_Course/shkmeruli_chicken.md)
 - [Svanetian Meat Pie](Main_Course/svanetian_meat_pie.md)
 - [Tkemali](Condiments/tkemali.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
@@ -457,6 +459,7 @@
 - [Maqluba](Main_Course/maqluba.md)
 - [Pumpkin-Chicken Chili](Main_Course/pumpkin_chicken_chili.md)
 - [Saffron Chicken and Herb Salad](Main_Course/saffron_chicken.md)
+- [Shkmeruli Chicken](Main_Course/shkmeruli_chicken.md)
 - [Tajin Chicken](Main_Course/tajin_chicken.md)
 
 ## Duck
