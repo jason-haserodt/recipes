@@ -118,6 +118,7 @@
 - [Hungarian Lecso](Main_Course/hungarian_lecso.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
+- [Lamb Basturma](Main_Course/lamb_basturma.md)
 - [Mac and Cheese](Main_Course/mac_and_cheese.md)
 - [Maqluba](Main_Course/maqluba.md)
 - [Meatballs](Main_Course/meatballs.md)
@@ -316,6 +317,7 @@
 - [Herbed Kidney Beans](Side_Dish/herbed_kidney_beans.md)
 - [Katami Sokoti](Main_Course/katami_sokoti.md)
 - [Kebabi](Main_Course/kebabi.md)
+- [Lamb Basturma](Main_Course/lamb_basturma.md)
 - [Lobio Tkemali](Side_Dish/kidney_beans_with_plum_sauce.md)
 - [Mtsvane Ajika](Condiments/mtsvane_ajika.md)
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
@@ -488,6 +490,7 @@
 - [Braised Eggs with Lamb](Main_Course/braised_eggs_with_lamb.md)
 - [Deconstructed Kebab](Main_Course/deconstructed_kebab.md)
 - [Kebabi](Main_Course/kebabi.md)
+- [Lamb Basturma](Main_Course/lamb_basturma.md)
 - [Pulled Lamb Shoulder](Main_Course/pulled_lamb_shoulder.md)
 - [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
 
