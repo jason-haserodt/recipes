@@ -150,6 +150,7 @@
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
+- [Svanetian Meat Pie](Main_Course/svanetian_meat_pie.md)
 - [Sweet Potato Kale Pizza](Main_Course/sweet_potato_kale_pizza.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 - [Tajin Chicken](Main_Course/tajin_chicken.md)
@@ -320,6 +321,7 @@
 - [Mtsvane Lobios Salata](Side_Dish/mtsvane_lobios_salata.md)
 - [Mushroom Chashushuli](Main_Course/mushroom_chashushuli.md)
 - [Oraguli Masharapit](Main_Course/oraguli_masharapit.md)
+- [Svanetian Meat Pie](Main_Course/svanetian_meat_pie.md)
 - [Tkemali](Condiments/tkemali.md)
 - [Zizeli Bulgaruli Zizakis Salata](Side_Dish/ziteli_bulgaruli_zizakis_salata.md)
 
@@ -439,6 +441,7 @@
 - [Smash Burgers](Main_Course/smash_burgers.md)
 - [Smoked Beef Ribs](Main_Course/smoked_beef_ribs.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
+- [Svanetian Meat Pie](Main_Course/svanetian_meat_pie.md)
 
 ## Chicken and Turkey
 
