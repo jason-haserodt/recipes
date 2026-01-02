@@ -178,6 +178,7 @@
 - [Baked Eggplant](Side_Dish/baked_eggplant.md)
 - [Braised Greens](Side_Dish/braised_greens.md)
 - [Braised Red Cabbage with Cranberries](Side_Dish/braised_red_cabbage.md)
+- [Broccoli Salad](Side_Dish/broccoli_salad.md)
 - [Broccoli Slaw](Side_Dish/broccoli_slaw.md)
 - [Brussels Sprout Bread](Side_Dish/brussels_sprout_bread.md)
 - [Caramelized Garlic Tart](Side_Dish/caramelized_garlic_tart.md)
@@ -377,6 +378,7 @@
 
 - [Baby Spinach Salad with Dates and Almonds](Side_Dish/baby_spinach_salad.md)
 - [Braised Eggs with Lamb](Main_Course/braised_eggs_with_lamb.md)
+- [Broccoli Salad](Side_Dish/broccoli_salad.md)
 - [Bulgur with Chard and Yogurt](Lunch/bulgur_chard_yogurt.md)
 - [Chicken Shawarma](Main_Course/chicken_shawarma.md)
 - [Chicken with Orange and Fennel](Main_Course/chicken_with_orange_and_fennel.md)
