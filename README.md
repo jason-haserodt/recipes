@@ -94,6 +94,7 @@
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
+- [Chicken Shawarma](Main_Course/chicken_shawarma.md)
 - [Chicken with Herbs and Tomatoes](Main_Course/chakhakhbili.md)
 - [Chicken with Mushrooms and Wine](Main_Course/chicken_with_mushrooms_and_wine.md)
 - [Chicken with Orange and Fennel](Main_Course/chicken_with_orange_and_fennel.md)
@@ -377,6 +378,7 @@
 - [Baby Spinach Salad with Dates and Almonds](Side_Dish/baby_spinach_salad.md)
 - [Braised Eggs with Lamb](Main_Course/braised_eggs_with_lamb.md)
 - [Bulgur with Chard and Yogurt](Lunch/bulgur_chard_yogurt.md)
+- [Chicken Shawarma](Main_Course/chicken_shawarma.md)
 - [Chicken with Orange and Fennel](Main_Course/chicken_with_orange_and_fennel.md)
 - [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Cold Carrot-Beet Soup](Lunch/cold_carrot_beet_soup.md)
@@ -456,6 +458,7 @@
 ## Chicken and Turkey
 
 - [Armenian Chicken Kebabs](Main_Course/armenian_chicken_kebabs.md)
+- [Chicken Shawarma](Main_Course/chicken_shawarma.md)
 - [Chicken with Herbs and Tomatoes](Main_Course/chakhakhbili.md)
 - [Chicken with Mushrooms and Wine](Main_Course/chicken_with_mushrooms_and_wine.md)
 - [Chicken with Orange and Fennel](Main_Course/chicken_with_orange_and_fennel.md)
