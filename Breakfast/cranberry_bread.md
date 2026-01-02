@@ -21,10 +21,12 @@ _Course:  Breakfast_
 ## Instructions
 
 1. Pre-heat oven to 350 F.
-1. Mix all of the dry ingredients in a large bowl.
-1. Mix in all of the other ingredients.
-1. Grease a loaf pan and pour batter into the pan.
-1. Bake at 350 F for 45-50 minutes.
+1. Mix all of the **dry ingredients** in a large bowl.
+1. Mix in all of the **other ingredients**.
+1. Grease a 9"x5" loaf pan and pour batter into the pan.
+1. Bake at 350 F for 55 minutes.
+1. Cool in pan for 15 minutes.
+1. Remove from pan and cool completely on a rack.
 
 ## From
 
