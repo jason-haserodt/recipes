@@ -83,6 +83,7 @@
 - [Bamieh](Main_Course/bamieh.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [BBQ](Main_Course/bbq.md)
+- [Beer-Bacon Mussels](Main_Course/beer_bacon_mussels.md)
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
 - [Borscht](Main_Course/borscht.md)
 - [Braised Eggs with Lamb](Main_Course/braised_eggs_with_lamb.md)
@@ -311,6 +312,7 @@
 
 ## French
 
+- [Beer-Bacon Mussels](Main_Course/beer_bacon_mussels.md)
 - [Caramelized Garlic Tart](Side_Dish/caramelized_garlic_tart.md)
 - [Chicken with Mushrooms and Wine](Main_Course/chicken_with_mushrooms_and_wine.md)
 - [Chicken with Spinach and Cream](Main_Course/chicken_with_spinach_and_cream.md)
@@ -487,6 +489,7 @@
 ## Fish and Seafood
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
+- [Beer-Bacon Mussels](Main_Course/beer_bacon_mussels.md)
 - [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Everything Salmon with Creamy Caper Sauce](Main_Course/everything_salmon.md)
