@@ -160,6 +160,7 @@
 - [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
 - [Svanetian Meat Pie](Main_Course/svanetian_meat_pie.md)
 - [Sweet Potato Kale Pizza](Main_Course/sweet_potato_kale_pizza.md)
+- [Szechuan Eggplant](Main_Course/szechuan_eggplant.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 - [Tajin Chicken](Main_Course/tajin_chicken.md)
 - [Tomato Pie](Main_Course/tomato_pie.md)
@@ -290,6 +291,7 @@
 - [Butternut Squash Soup - Thai Version](Main_Course/thai_butternut_squash_soup.md)
 - [Orange Miso Glazed Salmon](Main_Course/orange_miso_glazed_salmon.md)
 - [Poke Bowl](Main_Course/poke_bowl.md)
+- [Szechuan Eggplant](Main_Course/szechuan_eggplant.md)
 - [Wasabi Salmon](Main_Course/wasabi_salmon.md)
 
 ## Baltic and Eastern European
@@ -559,6 +561,7 @@
 - [Quinoa with Black Beans and Corn](Main_Course/quinoa_and_black_beans.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
 - [Sweet Potato Kale Pizza](Main_Course/sweet_potato_kale_pizza.md)
+- [Szechuan Eggplant](Main_Course/szechuan_eggplant.md)
 - [Topinambur](Main_Course/topinambur.md)
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
 - [Tortilla Espanola](Main_Course/tortilla_espanola.md)
