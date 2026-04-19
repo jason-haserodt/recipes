@@ -205,6 +205,7 @@
 - [Roasted Brussels Sprouts with Medjool Dates](Side_Dish/roasted_brussels_sprouts_with_dates.md)
 - [Roasted Fennel, Sweet Potato, and Garlic Salad](Side_Dish/roasted_fennel_sweet_potato_salad)
 - [Roasted Sweet Potatoes and Fresh Figs](Side_Dish/roasted_sweet_potatoes_with_figs.md)
+- [Sauerkraut](side_dish/sauerkraut.md)
 - [Sweet and Sour Onions](Side_Dish/sweet_and_sour_onions.md)
 - [Three Bean Salad](Side_Dish/three_bean_salad.md)
 - [Watermelon-Tomato Salad](Side_Dish/watermelon_tomato_salad.md)
@@ -353,6 +354,7 @@
 - [Moehrensalat](Side_Dish/mohrensalat.md)
 - [Muesli](Breakfast/muesli.md)
 - [Red Cabbage](Side_Dish/red_cabbage.md)
+- [Sauerkraut](side_dish/sauerkraut.md)
 - [Versunkener Apfelkuchen](Dessert/versunkener_apfelkuchen.md)
 
 ## Indian and South Asian
