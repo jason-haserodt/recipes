@@ -92,6 +92,7 @@
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
 - [Butternut Squash Soup - Thai Version](Main_Course/thai_butternut_squash_soup.md)
 - [Cacio e Pepe](Main_Course/cacio_e_pepe)
+- [Cajun Shrimp and Sausage](Main_Course/cajun_shrimp_and_sausage.md)
 - [Caramelized Cabbage and Noodles](Main_Course/caramelized_cabbage_noodles.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
@@ -233,6 +234,7 @@
 - [Broccoli Slaw](Side_Dish/broccoli_slaw.md)
 - [Brussels Sprout Bread](Side_Dish/brussels_sprout_bread.md)
 - [Butternut Squash Soup](Main_Course/butternut_squash_soup.md)
+- [Cajun Shrimp and Sausage](Main_Course/cajun_shrimp_and_sausage.md)
 - [Carrot Cake](Dessert/carrot_cake.md)
 - [Cauliflower Gratin](Side_Dish/cauliflower_gratin.md)
 - [Chocolate Angelfood Cake](Dessert/chocolate_angelfood_cake.md)
@@ -492,6 +494,7 @@
 
 - [Asian Barbacue Glazed Salmon](Main_Course/asian_barbacue_glazed_salmon.md)
 - [Beer-Bacon Mussels](Main_Course/beer_bacon_mussels.md)
+- [Cajun Shrimp and Sausage](Main_Course/cajun_shrimp_and_sausage.md)
 - [Citrus Rosemary Scallops or Fish Fillets](Main_Course/citrus_rosemary_fish_or_scallops.md)
 - [Creamy Spicy Seafood Pasta](Main_Course/creamy_spicy_seafood_pasta.md)
 - [Everything Salmon with Creamy Caper Sauce](Main_Course/everything_salmon.md)
