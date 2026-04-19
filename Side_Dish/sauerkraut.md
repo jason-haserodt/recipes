@@ -27,4 +27,4 @@ _Course:  Side Dish_
 
 ## From
 
-<a href="https://www.kilnerjar.co.uk/recipe/fermented-red-cabbage-and-apple">Kilner</a>
+[Kilner](https://www.kilnerjar.co.uk/recipe/fermented-red-cabbage-and-apple)
