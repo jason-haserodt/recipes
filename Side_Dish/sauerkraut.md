@@ -6,10 +6,10 @@ _Course:  Side Dish_
 ## Ingredients
 
 - 1 head of green or red cabbage (2.2 kg)
-- 225g apples, cored and grated
+- 225g apples (2 apples), cored and grated
 - 22 coriander seeds, crushed
 - 15 juniper seeds, crushed
-- 45g salt
+- 45g salt (2% of the weight of the cabbage and apples)
 
 ## Instructions
 
