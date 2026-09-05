@@ -161,6 +161,7 @@
 - [Smoked Trout-Apple Hash](Main_Course/smoked_trout_apple_hash.md)
 - [Southwestern Beef Brisket](Main_Course/southwestern_beef_brisket.md)
 - [Southwestern Pumpkin Stew](Main_Course/southwestern_pumpkin_stew.md)
+- [Spaghetti Aglio e Olio e Salsiccia](Main_Course/spaghetti_aglio_e_olio_e_salsiccia.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Stuffed Eggplant with Lamb and Pine Nuts](Main_Course/stuffed_eggplant.md)
 - [Svanetian Meat Pie](Main_Course/svanetian_meat_pie.md)
@@ -387,6 +388,7 @@
 - [Pesto Cod with Asparagus and Cherry Tomatoes](Main_Course/pesto_cod.md)
 - [Pumpkin Ravioli with Crispy Sage and Walnut Butter](Main_Course/pumpkin_ravioli_with_sage_and_walnuts.md)
 - [Salsa Rustica with Egg and Pancetta](Breakfast/salsa_rustica_with_egg_and_pancetta.md)
+- [Spaghetti Aglio e Olio e Salsiccia](Main_Course/spaghetti_aglio_e_olio_e_salsiccia.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 - [Tortellini with Yogurt, Mint and Smoked Paprika Oil](Main_Course/tortellini_with_yogurt_mint_paprika.md)
@@ -546,6 +548,7 @@
 - [Peach Pork Chops](Main_Course/peach_pork_chops.md)
 - [Pork Chops in Lemon-Caper Sauce](Main_Course/pork_chops_lemon-caper_sauce.md)
 - [Smoked Ribs with Carolina-Style BBQ Sauce](Main_Course/smoked_ribs.md)
+- [Spaghetti Aglio e Olio e Salsiccia](Main_Course/spaghetti_aglio_e_olio_e_salsiccia.md)
 - [Spaghetti alla Carbonara](Main_Course/spaghetti_alla_carbonara.md)
 - [Tagliolini al Limone](Main_Course/tagliolini_al_limone.md)
 
