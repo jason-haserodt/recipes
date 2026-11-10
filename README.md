@@ -84,6 +84,7 @@
 - [Bamieh](Main_Course/bamieh.md)
 - [Barley Mushroom Casserole](Main_Course/barley_mushroom_casserole.md)
 - [BBQ](Main_Course/bbq.md)
+- [Beef Flautas with Buttermilk-Avacado Crema](Main_Course/beef_flautas.md)
 - [Beer-Bacon Mussels](Main_Course/beer_bacon_mussels.md)
 - [Bert's Ravioli](Main_Course/berts_ravioli.md)
 - [Borscht](Main_Course/borscht.md)
@@ -424,6 +425,7 @@
 - [Al Chile!](Drinks/al_chile.md)
 - [Amarillo Chili Sauce](Condiments/amarillo_chili_sauce.md)
 - [Bacon Baked Black Beans](Side_Dish/bacon_black_beans.md)
+- [Beef Flautas with Buttermilk-Avacado Crema](Main_Course/beef_flautas.md)
 - [Carnitas](Main_Course/carnitas.md)
 - [Chido Wey!](Drinks/chido_wey.md)
 - [Chilli](Main_Course/chilli.md)
@@ -467,6 +469,7 @@
 
 ## Beef
 
+- [Beef Flautas with Buttermilk-Avacado Crema](Main_Course/beef_flautas.md)
 - [Cesky Gulas](Main_Course/cesky_gulas.md)
 - [Chilli](Main_Course/chilli.md)
 - [Cowboy Beef and Bean Stew](Main_Course/cowboy_beef_and_bean_stew.md)
